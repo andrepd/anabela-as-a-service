@@ -1,6 +1,9 @@
 import json
 import sys
 import subprocess
+import tempfile
+import time
+from playsound import playsound
 
 class Segment:
 	def __init__(self, text, start, end):
@@ -24,7 +27,10 @@ def get_segments(file):
 
 def search(file, text):
 	'''Search for text in file. Return start and stop timestamp, or None'''
-	pass
+	for i in get_segments(f'data/{file}.json'):
+		# print(manual_fix(i))
+		if text in i.text.lower():
+			yield i
 
 ###
 
@@ -39,13 +45,18 @@ def manual_fix(segment):
 
 ###
 
-def encode(segment):
-	cmd = f'ffmpeg -i audio/{sys.argv[1]}.opus -ss {segment.start} -to {segment.end} -c copy -f opus - | ffplay -'
-	subprocess.run(cmd, shell=True)
+def encode(segment, file):
+	# with tempfile.TemporaryFile() as output:
+	output = 'akjwebfwejh.opus'
 
-###
+	cmd = f'ffmpeg -y -i audio/{file}.opus -ss {segment.start} -to {segment.end} -c copy -f opus {output}'
+	print(cmd)
+	subprocess.run(cmd, shell=True)#, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
-for i in get_segments(f'data/{sys.argv[1]}.json'):
-	print(manual_fix(i))
-	if sys.argv[2] in i.text.lower():
-		encode(i)
+	# cmd = f'command xdg-open {output}'
+	# print(cmd)
+	# subprocess.run(cmd, shell=True)#, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+	# # time.sleep(10)
+
+	playsound(output)
+	time.sleep(1)
