@@ -40,12 +40,12 @@ def manual_fix(segment):
 ###
 
 def encode(segment):
-	cmd = f'ffmpeg -i anabela.opus -ss {segment.start} -to {segment.end} -c copy -f opus - | ffplay -'
+	cmd = f'ffmpeg -i audio/{sys.argv[1]}.opus -ss {segment.start} -to {segment.end} -c copy -f opus - | ffplay -'
 	subprocess.run(cmd, shell=True)
 
 ###
 
-for i in get_segments('anabela_large.2.json'):
+for i in get_segments(f'data/{sys.argv[1]}.json'):
 	print(manual_fix(i))
-	if 'aumentar' in i.text:
+	if sys.argv[2] in i.text.lower():
 		encode(i)
