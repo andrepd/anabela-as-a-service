@@ -1,9 +1,7 @@
 import json
 import sys
 import subprocess
-import tempfile
-import time
-from playsound import playsound
+import uuid
 
 class Segment:
 	def __init__(self, text, start, end):
@@ -46,17 +44,10 @@ def manual_fix(segment):
 ###
 
 def encode(segment, file):
-	# with tempfile.TemporaryFile() as output:
-	output = 'akjwebfwejh.opus'
+	output = f'{uuid.uuid1()}.opus'
 
 	cmd = f'ffmpeg -y -i audio/{file}.opus -ss {segment.start} -to {segment.end} -c copy -f opus {output}'
 	print(cmd)
-	subprocess.run(cmd, shell=True)#, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+	subprocess.run(cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
-	# cmd = f'command xdg-open {output}'
-	# print(cmd)
-	# subprocess.run(cmd, shell=True)#, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-	# # time.sleep(10)
-
-	playsound(output)
-	time.sleep(1)
+	return output
