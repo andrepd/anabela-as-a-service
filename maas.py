@@ -25,6 +25,7 @@ def get_segments(file):
 
 def search(file, text):
 	'''Search for text in file. Return start and stop timestamp, or None'''
+	print(file, text)
 	for i in get_segments(f'data/{file}.json'):
 		# print(manual_fix(i))
 		if text in i.text.lower():
@@ -43,7 +44,7 @@ def manual_fix(segment):
 
 ###
 
-def encode(segment, file):
+def extract_audio(file, segment):
 	output = f'{uuid.uuid1()}.opus'
 
 	cmd = f'ffmpeg -y -i audio/{file}.opus -ss {segment.start} -to {segment.end} -c copy -f opus {output}'

@@ -17,8 +17,8 @@ except IndexError:
 	file = None
 
 def play_from_file(text, file):
-	for i in maas.search(file, text):
-		output = maas.encode(i, file)
+	for segment in maas.search(file, text):
+		output = maas.extract_audio(file, segment)
 		playsound(output)
 		time.sleep(1)
 		os.remove(output)
