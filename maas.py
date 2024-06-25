@@ -2,6 +2,7 @@ import json
 import sys
 import subprocess
 import uuid
+from pathlib import Path
 
 class Segment:
 	def __init__(self, text, start, end):
@@ -45,9 +46,10 @@ def manual_fix(segment):
 ###
 
 def extract_audio(file, segment):
-	output = f'{uuid.uuid1()}.opus'
+	input = list(Path('audio').glob(f'{file}.*'))[0]
+	output = f'{uuid.uuid1()}.{input.suffix}'
 
-	cmd = f'ffmpeg -y -i audio/{file}.opus -ss {segment.start} -to {segment.end} -c copy -f opus {output}'
+	cmd = f'ffmpeg -y -i {input} -ss {segment.start} -to {segment.end} -c copy {output}'
 	print(cmd)
 	subprocess.run(cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
