@@ -24,11 +24,38 @@ def get_segments(file):
 			for segment, next_segment in zip(db['segments'], db['segments'][1:])
 		]
 
-def search(file, text):
-	'''Search for text in file. Return start and stop timestamp, or None'''
+def search_segments(file, text):
 	print(file, text)
 	for i in get_segments(f'data/{file}.json'):
 		# print(manual_fix(i))
+		if text in i.text.lower():
+			yield i
+
+###
+
+class Word:
+	def __init__(self, text, start, end):
+		self.text = text
+		self.start = start
+		self.end = end
+
+	def __str__(self):
+		return f'{self.start:.3f} | {self.text}'
+
+def get_words(file):
+	TOLERANCE = 0.04
+	with open(file) as f:
+		db = json.load(f)
+		return [
+			Segment(word['word'].strip(), word['start'] - TOLERANCE, word['end'] + TOLERANCE)
+			for segment in db['segments']
+			for word in segment['words']
+		]
+
+def search_words(file, text):
+	print(file, text)
+	for i in get_words(f'data/{file}.json'):
+		# print(i)
 		if text in i.text.lower():
 			yield i
 

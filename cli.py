@@ -5,6 +5,12 @@ import os
 import time
 from playsound import playsound
 
+if '-w' in sys.argv[1:]:
+	sys.argv.remove('-w')
+	word_level = True
+else:
+	word_level = False
+
 try:
 	text = sys.argv[1]
 except IndexError:
@@ -17,7 +23,8 @@ except IndexError:
 	file = None
 
 def play_from_file(text, file):
-	for segment in maas.search(file, text):
+	search_f = maas.search_segments if not word_level else maas.search_words
+	for segment in search_f(file, text):
 		output = maas.extract_audio(file, segment)
 		playsound(output)
 		time.sleep(1)
