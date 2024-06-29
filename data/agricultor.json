@@ -1,0 +1,2259 @@
+{
+  "text": " Lopes de Silva, Sr. Ramiro Lopes de Silva, antes de mais, só para situarmos os nosso telespectadores, o que é que o senhor cultiva? Olha, eu, em termos gerais, cultivo aquilo a que nós, em agricultura, chamamos o vegetal. Tanto coas, batatas, cenouras, nabo, nabo também, fava-s, beringela, crojetes, alface, milho, ervilha, manteiga, feijão branco, manteiga, feijão encarnado, feijão verde, feijão frado, feijão em geral, em relação a pimentos. Aipo, cogumelos, untomate, cebolas, cebolas, e agora cultivar cebolas, não, não, espinafres, mas voltando lentilhas ao assunto, abóbora, desta problemática, alfafa, Qual é, grão, a sua opinião, a minha opinião sobre o quê? Sobre esta problemática. Nabices, grelos, rabanete, mas Sr. Ramiro, funcho, funcho, funcho, brócolis, cenouras. Ah, que pena, que pena. Peço desculpa, Sr. Ramiro Lopes de Silva, já tinha dito cenouras, está eliminado, vai ter de sair. Pronto, o que interessa é concorrer, o que interessa é gosto em vê-lo. Igualmente. Vou sair para fora. Vou para aqui que tenho que estacionar a picape, a lima. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos. Aplausos.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.18,
+      "text": " Lopes de Silva, Sr. Ramiro Lopes de Silva, antes de mais, só para situarmos os",
+      "tokens": [
+        50365,
+        441,
+        30545,
+        368,
+        50171,
+        11,
+        38988,
+        13,
+        497,
+        4526,
+        340,
+        441,
+        30545,
+        368,
+        50171,
+        11,
+        11014,
+        368,
+        2420,
+        11,
+        6238,
+        1690,
+        2054,
+        289,
+        3415,
+        3003,
+        50627
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25878487346328305,
+      "compression_ratio": 1.504950495049505,
+      "no_speech_prob": 0.01006443053483963,
+      "words": [
+        {
+          "word": " Lopes",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.7612158358097076
+        },
+        {
+          "word": " de",
+          "start": 0.26,
+          "end": 0.36,
+          "probability": 0.00022997730411589146
+        },
+        {
+          "word": " Silva,",
+          "start": 0.36,
+          "end": 0.58,
+          "probability": 0.9908135533332825
+        },
+        {
+          "word": " Sr.",
+          "start": 0.78,
+          "end": 1.7,
+          "probability": 0.9322271943092346
+        },
+        {
+          "word": " Ramiro",
+          "start": 1.9,
+          "end": 2.34,
+          "probability": 0.99588942527771
+        },
+        {
+          "word": " Lopes",
+          "start": 2.34,
+          "end": 2.54,
+          "probability": 0.9995020031929016
+        },
+        {
+          "word": " de",
+          "start": 2.54,
+          "end": 2.66,
+          "probability": 0.9802242517471313
+        },
+        {
+          "word": " Silva,",
+          "start": 2.66,
+          "end": 2.9,
+          "probability": 0.9999140501022339
+        },
+        {
+          "word": " antes",
+          "start": 3.1,
+          "end": 3.48,
+          "probability": 0.9981158971786499
+        },
+        {
+          "word": " de",
+          "start": 3.48,
+          "end": 3.58,
+          "probability": 0.9914291501045227
+        },
+        {
+          "word": " mais,",
+          "start": 3.58,
+          "end": 3.76,
+          "probability": 0.9998937845230103
+        },
+        {
+          "word": " só",
+          "start": 3.94,
+          "end": 4.32,
+          "probability": 0.9996832609176636
+        },
+        {
+          "word": " para",
+          "start": 4.32,
+          "end": 4.52,
+          "probability": 0.9998531341552734
+        },
+        {
+          "word": " situarmos",
+          "start": 4.52,
+          "end": 5.06,
+          "probability": 0.9844136039415995
+        },
+        {
+          "word": " os",
+          "start": 5.06,
+          "end": 5.18,
+          "probability": 0.9993001222610474
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.18,
+      "end": 7.58,
+      "text": " nosso telespectadores, o que é que o senhor cultiva?",
+      "tokens": [
+        50627,
+        14347,
+        18273,
+        1043,
+        11856,
+        11,
+        277,
+        631,
+        1136,
+        631,
+        277,
+        46464,
+        2376,
+        5931,
+        30,
+        50748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25878487346328305,
+      "compression_ratio": 1.504950495049505,
+      "no_speech_prob": 0.01006443053483963,
+      "words": [
+        {
+          "word": " nosso",
+          "start": 5.18,
+          "end": 5.32,
+          "probability": 2.0936047803843394e-05
+        },
+        {
+          "word": " telespectadores,",
+          "start": 5.32,
+          "end": 6.12,
+          "probability": 0.943592389424642
+        },
+        {
+          "word": " o",
+          "start": 6.3,
+          "end": 6.72,
+          "probability": 0.962196946144104
+        },
+        {
+          "word": " que",
+          "start": 6.72,
+          "end": 6.74,
+          "probability": 0.970079243183136
+        },
+        {
+          "word": " é",
+          "start": 6.74,
+          "end": 6.86,
+          "probability": 0.9597930908203125
+        },
+        {
+          "word": " que",
+          "start": 6.86,
+          "end": 6.94,
+          "probability": 0.9951981902122498
+        },
+        {
+          "word": " o",
+          "start": 6.94,
+          "end": 6.98,
+          "probability": 0.9961625337600708
+        },
+        {
+          "word": " senhor",
+          "start": 6.98,
+          "end": 7.12,
+          "probability": 0.7649403214454651
+        },
+        {
+          "word": " cultiva?",
+          "start": 7.12,
+          "end": 7.58,
+          "probability": 0.9835027754306793
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.8,
+      "end": 16.24,
+      "text": " Olha, eu, em termos gerais, cultivo aquilo a que nós, em agricultura, chamamos o vegetal.",
+      "tokens": [
+        50765,
+        19450,
+        11,
+        2228,
+        11,
+        846,
+        1796,
+        3415,
+        5713,
+        1527,
+        11,
+        2376,
+        6340,
+        32304,
+        257,
+        631,
+        9738,
+        11,
+        846,
+        9682,
+        49944,
+        11,
+        8268,
+        2151,
+        277,
+        5764,
+        304,
+        13,
+        51179
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25878487346328305,
+      "compression_ratio": 1.504950495049505,
+      "no_speech_prob": 0.01006443053483963,
+      "words": [
+        {
+          "word": " Olha,",
+          "start": 7.8,
+          "end": 8.22,
+          "probability": 0.42512649297714233
+        },
+        {
+          "word": " eu,",
+          "start": 8.3,
+          "end": 8.7,
+          "probability": 0.9955132603645325
+        },
+        {
+          "word": " em",
+          "start": 8.82,
+          "end": 9.48,
+          "probability": 0.7760225534439087
+        },
+        {
+          "word": " termos",
+          "start": 9.48,
+          "end": 10.34,
+          "probability": 0.1850232716096798
+        },
+        {
+          "word": " gerais,",
+          "start": 10.34,
+          "end": 10.92,
+          "probability": 0.995451033115387
+        },
+        {
+          "word": " cultivo",
+          "start": 11.02,
+          "end": 11.94,
+          "probability": 0.9992633759975433
+        },
+        {
+          "word": " aquilo",
+          "start": 11.94,
+          "end": 12.22,
+          "probability": 0.9920985698699951
+        },
+        {
+          "word": " a",
+          "start": 12.22,
+          "end": 12.44,
+          "probability": 0.5331486463546753
+        },
+        {
+          "word": " que",
+          "start": 12.44,
+          "end": 12.54,
+          "probability": 0.9888985753059387
+        },
+        {
+          "word": " nós,",
+          "start": 12.54,
+          "end": 12.98,
+          "probability": 0.9957116842269897
+        },
+        {
+          "word": " em",
+          "start": 13.1,
+          "end": 13.4,
+          "probability": 0.9571927189826965
+        },
+        {
+          "word": " agricultura,",
+          "start": 13.4,
+          "end": 14.24,
+          "probability": 0.9860516488552094
+        },
+        {
+          "word": " chamamos",
+          "start": 14.3,
+          "end": 15.04,
+          "probability": 0.9886659681797028
+        },
+        {
+          "word": " o",
+          "start": 15.04,
+          "end": 15.44,
+          "probability": 0.8301152586936951
+        },
+        {
+          "word": " vegetal.",
+          "start": 15.44,
+          "end": 16.24,
+          "probability": 0.9979362487792969
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.9,
+      "end": 29.0,
+      "text": " Tanto coas, batatas, cenouras, nabo, nabo também, fava-s, beringela, crojetes,",
+      "tokens": [
+        51210,
+        314,
+        5857,
+        598,
+        296,
+        11,
+        7362,
+        37892,
+        11,
+        27900,
+        396,
+        296,
+        11,
+        297,
+        41265,
+        11,
+        297,
+        41265,
+        6274,
+        11,
+        283,
+        4061,
+        12,
+        82,
+        11,
+        272,
+        1794,
+        4053,
+        11,
+        4848,
+        7108,
+        279,
+        11,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25878487346328305,
+      "compression_ratio": 1.504950495049505,
+      "no_speech_prob": 0.01006443053483963,
+      "words": [
+        {
+          "word": " Tanto",
+          "start": 16.9,
+          "end": 17.34,
+          "probability": 0.695596918463707
+        },
+        {
+          "word": " coas,",
+          "start": 17.34,
+          "end": 17.78,
+          "probability": 0.425680011510849
+        },
+        {
+          "word": " batatas,",
+          "start": 17.78,
+          "end": 18.3,
+          "probability": 0.996320366859436
+        },
+        {
+          "word": " cenouras,",
+          "start": 18.44,
+          "end": 19.0,
+          "probability": 0.9987702171007792
+        },
+        {
+          "word": " nabo,",
+          "start": 19.06,
+          "end": 20.4,
+          "probability": 0.9883147776126862
+        },
+        {
+          "word": " nabo",
+          "start": 20.58,
+          "end": 21.72,
+          "probability": 0.9245195984840393
+        },
+        {
+          "word": " também,",
+          "start": 21.72,
+          "end": 21.96,
+          "probability": 0.992960512638092
+        },
+        {
+          "word": " fava",
+          "start": 22.4,
+          "end": 24.88,
+          "probability": 0.4636605903506279
+        },
+        {
+          "word": "-s,",
+          "start": 24.88,
+          "end": 25.02,
+          "probability": 0.49438569037238267
+        },
+        {
+          "word": " beringela,",
+          "start": 25.18,
+          "end": 28.26,
+          "probability": 0.7566889226436615
+        },
+        {
+          "word": " crojetes,",
+          "start": 28.42,
+          "end": 29.0,
+          "probability": 0.7941674490769705
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 37.22,
+      "end": 56.78,
+      "text": " alface, milho, ervilha, manteiga, feijão branco, manteiga, feijão encarnado, feijão verde, feijão frado, feijão em geral,",
+      "tokens": [
+        50365,
+        419,
+        2868,
+        11,
+        1962,
+        1289,
+        11,
+        1189,
+        20202,
+        1641,
+        11,
+        275,
+        2879,
+        9900,
+        11,
+        579,
+        1718,
+        1076,
+        12029,
+        1291,
+        11,
+        275,
+        2879,
+        9900,
+        11,
+        579,
+        1718,
+        1076,
+        2058,
+        1083,
+        1573,
+        11,
+        579,
+        1718,
+        1076,
+        29653,
+        11,
+        579,
+        1718,
+        1076,
+        431,
+        1573,
+        11,
+        579,
+        1718,
+        1076,
+        846,
+        35412,
+        11,
+        51710
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2565499464670817,
+      "compression_ratio": 1.5894736842105264,
+      "no_speech_prob": 0.0005419809021987021,
+      "words": [
+        {
+          "word": " alface,",
+          "start": 37.22,
+          "end": 38.28,
+          "probability": 0.5317636765539646
+        },
+        {
+          "word": " milho,",
+          "start": 38.28,
+          "end": 39.34,
+          "probability": 0.7177978157997131
+        },
+        {
+          "word": " ervilha,",
+          "start": 39.36,
+          "end": 41.4,
+          "probability": 0.807017852862676
+        },
+        {
+          "word": " manteiga,",
+          "start": 41.44,
+          "end": 43.12,
+          "probability": 0.5228345741828283
+        },
+        {
+          "word": " feijão",
+          "start": 45.86,
+          "end": 46.4,
+          "probability": 0.7024303625027338
+        },
+        {
+          "word": " branco,",
+          "start": 46.4,
+          "end": 48.34,
+          "probability": 0.8245434761047363
+        },
+        {
+          "word": " manteiga,",
+          "start": 48.36,
+          "end": 50.0,
+          "probability": 0.9153466622034708
+        },
+        {
+          "word": " feijão",
+          "start": 50.06,
+          "end": 51.12,
+          "probability": 0.9595252275466919
+        },
+        {
+          "word": " encarnado,",
+          "start": 51.12,
+          "end": 51.66,
+          "probability": 0.982483426729838
+        },
+        {
+          "word": " feijão",
+          "start": 51.8,
+          "end": 52.8,
+          "probability": 0.9985371629397074
+        },
+        {
+          "word": " verde,",
+          "start": 52.8,
+          "end": 53.06,
+          "probability": 0.9949811100959778
+        },
+        {
+          "word": " feijão",
+          "start": 53.34,
+          "end": 54.38,
+          "probability": 0.9988294442494711
+        },
+        {
+          "word": " frado,",
+          "start": 54.38,
+          "end": 54.84,
+          "probability": 0.8580203652381897
+        },
+        {
+          "word": " feijão",
+          "start": 55.0,
+          "end": 56.46,
+          "probability": 0.9920827150344849
+        },
+        {
+          "word": " em",
+          "start": 56.46,
+          "end": 56.58,
+          "probability": 0.9906837940216064
+        },
+        {
+          "word": " geral,",
+          "start": 56.58,
+          "end": 56.78,
+          "probability": 0.9983752965927124
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 56.86,
+      "end": 59.56,
+      "text": " em relação a pimentos.",
+      "tokens": [
+        51710,
+        846,
+        28177,
+        257,
+        280,
+        2328,
+        329,
+        13,
+        51846
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2565499464670817,
+      "compression_ratio": 1.5894736842105264,
+      "no_speech_prob": 0.0005419809021987021,
+      "words": [
+        {
+          "word": " em",
+          "start": 56.86,
+          "end": 57.38,
+          "probability": 0.16421927511692047
+        },
+        {
+          "word": " relação",
+          "start": 57.38,
+          "end": 58.4,
+          "probability": 0.9995893836021423
+        },
+        {
+          "word": " a",
+          "start": 58.4,
+          "end": 58.56,
+          "probability": 0.5012013912200928
+        },
+        {
+          "word": " pimentos.",
+          "start": 58.56,
+          "end": 59.56,
+          "probability": 0.517254946132501
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 61.42,
+      "end": 69.4,
+      "text": " Aipo, cogumelos, untomate, cebolas, cebolas, e agora cultivar cebolas, não, não, espinafres,",
+      "tokens": [
+        50402,
+        316,
+        647,
+        78,
+        11,
+        46521,
+        449,
+        338,
+        329,
+        11,
+        1701,
+        298,
+        473,
+        11,
+        1769,
+        65,
+        14104,
+        11,
+        1769,
+        65,
+        14104,
+        11,
+        308,
+        9851,
+        15298,
+        289,
+        1769,
+        65,
+        14104,
+        11,
+        2431,
+        11,
+        2431,
+        11,
+        7089,
+        1426,
+        69,
+        495,
+        11,
+        50841
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20804431790211161,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.0001753681863192469,
+      "words": [
+        {
+          "word": " Aipo,",
+          "start": 61.42,
+          "end": 61.980000000000004,
+          "probability": 0.8723867932955424
+        },
+        {
+          "word": " cogumelos,",
+          "start": 61.980000000000004,
+          "end": 62.54,
+          "probability": 0.9701256304979324
+        },
+        {
+          "word": " untomate,",
+          "start": 62.56,
+          "end": 64.02,
+          "probability": 0.5229899583015746
+        },
+        {
+          "word": " cebolas,",
+          "start": 64.08,
+          "end": 65.44,
+          "probability": 0.9410163760185242
+        },
+        {
+          "word": " cebolas,",
+          "start": 65.54,
+          "end": 66.0,
+          "probability": 0.6716800636301438
+        },
+        {
+          "word": " e",
+          "start": 66.02,
+          "end": 66.88,
+          "probability": 0.6472581624984741
+        },
+        {
+          "word": " agora",
+          "start": 66.88,
+          "end": 67.1,
+          "probability": 0.9736310243606567
+        },
+        {
+          "word": " cultivar",
+          "start": 67.1,
+          "end": 67.74,
+          "probability": 0.9295565783977509
+        },
+        {
+          "word": " cebolas,",
+          "start": 67.74,
+          "end": 68.16,
+          "probability": 0.9992327690124512
+        },
+        {
+          "word": " não,",
+          "start": 68.2,
+          "end": 68.34,
+          "probability": 0.9962601661682129
+        },
+        {
+          "word": " não,",
+          "start": 68.42,
+          "end": 68.54,
+          "probability": 0.9850363731384277
+        },
+        {
+          "word": " espinafres,",
+          "start": 68.58,
+          "end": 69.4,
+          "probability": 0.8953836411237717
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 69.52,
+      "end": 75.18,
+      "text": " mas voltando lentilhas ao assunto, abóbora, desta problemática, alfafa,",
+      "tokens": [
+        50873,
+        2300,
+        5962,
+        1806,
+        23556,
+        388,
+        12438,
+        8130,
+        50219,
+        11,
+        410,
+        14216,
+        3252,
+        11,
+        45943,
+        1154,
+        23432,
+        11,
+        419,
+        69,
+        19846,
+        11,
+        51135
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20804431790211161,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.0001753681863192469,
+      "words": [
+        {
+          "word": " mas",
+          "start": 69.52,
+          "end": 70.16,
+          "probability": 0.9516915678977966
+        },
+        {
+          "word": " voltando",
+          "start": 70.16,
+          "end": 70.86,
+          "probability": 0.9994188547134399
+        },
+        {
+          "word": " lentilhas",
+          "start": 70.86,
+          "end": 71.76,
+          "probability": 0.8398681481679281
+        },
+        {
+          "word": " ao",
+          "start": 71.76,
+          "end": 72.04,
+          "probability": 0.822791576385498
+        },
+        {
+          "word": " assunto,",
+          "start": 72.04,
+          "end": 72.46,
+          "probability": 0.9997166991233826
+        },
+        {
+          "word": " abóbora,",
+          "start": 72.74,
+          "end": 73.36,
+          "probability": 0.9926242828369141
+        },
+        {
+          "word": " desta",
+          "start": 73.42,
+          "end": 73.74,
+          "probability": 0.9875736832618713
+        },
+        {
+          "word": " problemática,",
+          "start": 73.74,
+          "end": 74.72,
+          "probability": 0.9998771846294403
+        },
+        {
+          "word": " alfafa,",
+          "start": 74.8,
+          "end": 75.18,
+          "probability": 0.9945107301076254
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 75.42,
+      "end": 79.38,
+      "text": " Qual é, grão, a sua opinião, a minha opinião sobre o quê?",
+      "tokens": [
+        51144,
+        13616,
+        1136,
+        11,
+        677,
+        1076,
+        11,
+        257,
+        8233,
+        46784,
+        1076,
+        11,
+        257,
+        11720,
+        46784,
+        1076,
+        5473,
+        277,
+        28605,
+        30,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20804431790211161,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.0001753681863192469,
+      "words": [
+        {
+          "word": " Qual",
+          "start": 75.42,
+          "end": 75.58,
+          "probability": 0.0005247370572760701
+        },
+        {
+          "word": " é,",
+          "start": 75.58,
+          "end": 75.86,
+          "probability": 0.995786726474762
+        },
+        {
+          "word": " grão,",
+          "start": 76.02,
+          "end": 76.86,
+          "probability": 0.7332368493080139
+        },
+        {
+          "word": " a",
+          "start": 77.0,
+          "end": 77.28,
+          "probability": 0.9980446100234985
+        },
+        {
+          "word": " sua",
+          "start": 77.28,
+          "end": 77.42,
+          "probability": 0.9996296167373657
+        },
+        {
+          "word": " opinião,",
+          "start": 77.42,
+          "end": 78.14,
+          "probability": 0.9998040199279785
+        },
+        {
+          "word": " a",
+          "start": 78.4,
+          "end": 78.6,
+          "probability": 0.9661225080490112
+        },
+        {
+          "word": " minha",
+          "start": 78.6,
+          "end": 78.66,
+          "probability": 0.9992890357971191
+        },
+        {
+          "word": " opinião",
+          "start": 78.66,
+          "end": 78.96,
+          "probability": 0.999943733215332
+        },
+        {
+          "word": " sobre",
+          "start": 78.96,
+          "end": 79.16,
+          "probability": 0.9955978989601135
+        },
+        {
+          "word": " o",
+          "start": 79.16,
+          "end": 79.26,
+          "probability": 0.44290027022361755
+        },
+        {
+          "word": " quê?",
+          "start": 79.26,
+          "end": 79.38,
+          "probability": 0.8977398872375488
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6000,
+      "start": 80.0,
+      "end": 81.32,
+      "text": " Sobre esta problemática.",
+      "tokens": [
+        51376,
+        407,
+        2672,
+        5283,
+        1154,
+        23432,
+        13,
+        51433
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20804431790211161,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.0001753681863192469,
+      "words": [
+        {
+          "word": " Sobre",
+          "start": 80.0,
+          "end": 80.56,
+          "probability": 0.9893676936626434
+        },
+        {
+          "word": " esta",
+          "start": 80.56,
+          "end": 80.74,
+          "probability": 0.9996873140335083
+        },
+        {
+          "word": " problemática.",
+          "start": 80.74,
+          "end": 81.32,
+          "probability": 0.9993823766708374
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6000,
+      "start": 81.38,
+      "end": 89.46,
+      "text": " Nabices, grelos, rabanete, mas Sr. Ramiro, funcho, funcho, funcho,",
+      "tokens": [
+        51433,
+        45366,
+        1473,
+        11,
+        290,
+        4419,
+        329,
+        11,
+        14085,
+        282,
+        3498,
+        11,
+        2300,
+        38988,
+        13,
+        497,
+        4526,
+        340,
+        11,
+        1019,
+        5738,
+        11,
+        1019,
+        5738,
+        11,
+        1019,
+        5738,
+        11,
+        51845
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20804431790211161,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.0001753681863192469,
+      "words": [
+        {
+          "word": " Nabices,",
+          "start": 81.38,
+          "end": 81.92,
+          "probability": 0.6687909662723541
+        },
+        {
+          "word": " grelos,",
+          "start": 82.32,
+          "end": 83.74,
+          "probability": 0.955499549706777
+        },
+        {
+          "word": " rabanete,",
+          "start": 83.82,
+          "end": 85.86,
+          "probability": 0.82762211561203
+        },
+        {
+          "word": " mas",
+          "start": 86.0,
+          "end": 86.52,
+          "probability": 0.9772879481315613
+        },
+        {
+          "word": " Sr.",
+          "start": 86.52,
+          "end": 87.08,
+          "probability": 0.17173194885253906
+        },
+        {
+          "word": " Ramiro,",
+          "start": 87.3,
+          "end": 87.82,
+          "probability": 0.9786195158958435
+        },
+        {
+          "word": " funcho,",
+          "start": 87.82,
+          "end": 88.26,
+          "probability": 0.9795854389667511
+        },
+        {
+          "word": " funcho,",
+          "start": 88.4,
+          "end": 88.8,
+          "probability": 0.9978045523166656
+        },
+        {
+          "word": " funcho,",
+          "start": 88.84,
+          "end": 89.46,
+          "probability": 0.9949238896369934
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 9000,
+      "start": 93.25999999999999,
+      "end": 94.06,
+      "text": " brócolis, cenouras.",
+      "tokens": [
+        50365,
+        738,
+        812,
+        8768,
+        271,
+        11,
+        27900,
+        396,
+        296,
+        13,
+        50571
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " brócolis,",
+          "start": 93.25999999999999,
+          "end": 93.66,
+          "probability": 0.7133184280246496
+        },
+        {
+          "word": " cenouras.",
+          "start": 93.66,
+          "end": 94.06,
+          "probability": 0.9916741847991943
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 9000,
+      "start": 96.01999999999998,
+      "end": 97.94,
+      "text": " Ah, que pena, que pena.",
+      "tokens": [
+        50652,
+        2438,
+        11,
+        631,
+        29222,
+        11,
+        631,
+        29222,
+        13,
+        50770
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 96.01999999999998,
+          "end": 96.41999999999999,
+          "probability": 0.5079099535942078
+        },
+        {
+          "word": " que",
+          "start": 96.41999999999999,
+          "end": 96.82,
+          "probability": 0.9892714023590088
+        },
+        {
+          "word": " pena,",
+          "start": 96.82,
+          "end": 97.24,
+          "probability": 0.9978799819946289
+        },
+        {
+          "word": " que",
+          "start": 97.4,
+          "end": 97.58,
+          "probability": 0.9700120687484741
+        },
+        {
+          "word": " pena.",
+          "start": 97.58,
+          "end": 97.94,
+          "probability": 0.9996572732925415
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 9000,
+      "start": 98.26,
+      "end": 103.14,
+      "text": " Peço desculpa, Sr. Ramiro Lopes de Silva, já tinha dito cenouras, está eliminado, vai ter de sair.",
+      "tokens": [
+        50792,
+        2396,
+        8560,
+        730,
+        2444,
+        4306,
+        11,
+        38988,
+        13,
+        497,
+        4526,
+        340,
+        441,
+        30545,
+        368,
+        50171,
+        11,
+        6242,
+        13574,
+        274,
+        3528,
+        27900,
+        396,
+        296,
+        11,
+        3192,
+        7892,
+        1573,
+        11,
+        4405,
+        1796,
+        368,
+        29157,
+        13,
+        51027
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Peço",
+          "start": 98.26,
+          "end": 98.66,
+          "probability": 0.9917243719100952
+        },
+        {
+          "word": " desculpa,",
+          "start": 98.66,
+          "end": 99.0,
+          "probability": 0.8844150900840759
+        },
+        {
+          "word": " Sr.",
+          "start": 99.0,
+          "end": 99.12,
+          "probability": 0.3136956989765167
+        },
+        {
+          "word": " Ramiro",
+          "start": 99.24,
+          "end": 99.48,
+          "probability": 0.6742695271968842
+        },
+        {
+          "word": " Lopes",
+          "start": 99.48,
+          "end": 99.68,
+          "probability": 0.9286133944988251
+        },
+        {
+          "word": " de",
+          "start": 99.68,
+          "end": 99.76,
+          "probability": 0.006564043927937746
+        },
+        {
+          "word": " Silva,",
+          "start": 99.76,
+          "end": 99.98,
+          "probability": 0.9952428936958313
+        },
+        {
+          "word": " já",
+          "start": 100.06,
+          "end": 100.2,
+          "probability": 0.9965092539787292
+        },
+        {
+          "word": " tinha",
+          "start": 100.2,
+          "end": 100.54,
+          "probability": 0.9970930814743042
+        },
+        {
+          "word": " dito",
+          "start": 100.54,
+          "end": 100.82,
+          "probability": 0.9972050487995148
+        },
+        {
+          "word": " cenouras,",
+          "start": 100.82,
+          "end": 101.34,
+          "probability": 0.9925115903218588
+        },
+        {
+          "word": " está",
+          "start": 101.34,
+          "end": 101.7,
+          "probability": 0.9897364377975464
+        },
+        {
+          "word": " eliminado,",
+          "start": 101.7,
+          "end": 102.3,
+          "probability": 0.9837363958358765
+        },
+        {
+          "word": " vai",
+          "start": 102.34,
+          "end": 102.68,
+          "probability": 0.9989321827888489
+        },
+        {
+          "word": " ter",
+          "start": 102.68,
+          "end": 102.82,
+          "probability": 0.9996533393859863
+        },
+        {
+          "word": " de",
+          "start": 102.82,
+          "end": 102.94,
+          "probability": 0.9911020994186401
+        },
+        {
+          "word": " sair.",
+          "start": 102.94,
+          "end": 103.14,
+          "probability": 0.9989917874336243
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 9000,
+      "start": 103.32,
+      "end": 106.08,
+      "text": " Pronto, o que interessa é concorrer, o que interessa é gosto em vê-lo.",
+      "tokens": [
+        51032,
+        2114,
+        7556,
+        11,
+        277,
+        631,
+        728,
+        8391,
+        1136,
+        1588,
+        284,
+        9797,
+        11,
+        277,
+        631,
+        728,
+        8391,
+        1136,
+        32022,
+        846,
+        30384,
+        12,
+        752,
+        13,
+        51172
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Pronto,",
+          "start": 103.32,
+          "end": 103.46,
+          "probability": 0.9216469824314117
+        },
+        {
+          "word": " o",
+          "start": 103.46,
+          "end": 103.62,
+          "probability": 0.7606996297836304
+        },
+        {
+          "word": " que",
+          "start": 103.62,
+          "end": 103.64,
+          "probability": 0.998891294002533
+        },
+        {
+          "word": " interessa",
+          "start": 103.64,
+          "end": 103.96,
+          "probability": 0.9948708415031433
+        },
+        {
+          "word": " é",
+          "start": 103.96,
+          "end": 104.12,
+          "probability": 0.9962387084960938
+        },
+        {
+          "word": " concorrer,",
+          "start": 104.12,
+          "end": 104.56,
+          "probability": 0.9833789070447286
+        },
+        {
+          "word": " o",
+          "start": 104.66,
+          "end": 104.8,
+          "probability": 0.9626320004463196
+        },
+        {
+          "word": " que",
+          "start": 104.8,
+          "end": 104.86,
+          "probability": 0.9993411898612976
+        },
+        {
+          "word": " interessa",
+          "start": 104.86,
+          "end": 105.12,
+          "probability": 0.999836653470993
+        },
+        {
+          "word": " é",
+          "start": 105.12,
+          "end": 105.3,
+          "probability": 0.9996269941329956
+        },
+        {
+          "word": " gosto",
+          "start": 105.3,
+          "end": 105.66,
+          "probability": 0.46289733052253723
+        },
+        {
+          "word": " em",
+          "start": 105.66,
+          "end": 105.8,
+          "probability": 0.8714059591293335
+        },
+        {
+          "word": " vê",
+          "start": 105.8,
+          "end": 105.94,
+          "probability": 0.7164819240570068
+        },
+        {
+          "word": "-lo.",
+          "start": 105.94,
+          "end": 106.08,
+          "probability": 0.9438212215900421
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 9000,
+      "start": 106.16,
+      "end": 106.56,
+      "text": " Igualmente.",
+      "tokens": [
+        51178,
+        19271,
+        901,
+        4082,
+        13,
+        51200
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Igualmente.",
+          "start": 106.16,
+          "end": 106.56,
+          "probability": 0.9533913532892863
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 9000,
+      "start": 107.12,
+      "end": 107.82,
+      "text": " Vou sair para fora.",
+      "tokens": [
+        51224,
+        24361,
+        29157,
+        1690,
+        24530,
+        13,
+        51260
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Vou",
+          "start": 107.12,
+          "end": 107.2,
+          "probability": 0.6510146856307983
+        },
+        {
+          "word": " sair",
+          "start": 107.2,
+          "end": 107.42,
+          "probability": 0.9954506754875183
+        },
+        {
+          "word": " para",
+          "start": 107.42,
+          "end": 107.54,
+          "probability": 0.9976691603660583
+        },
+        {
+          "word": " fora.",
+          "start": 107.54,
+          "end": 107.82,
+          "probability": 0.9999103546142578
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 9000,
+      "start": 110.16,
+      "end": 112.7,
+      "text": " Vou para aqui que tenho que estacionar a picape, a lima.",
+      "tokens": [
+        51376,
+        24361,
+        1690,
+        3871,
+        631,
+        14291,
+        631,
+        871,
+        18803,
+        289,
+        257,
+        280,
+        2262,
+        494,
+        11,
+        257,
+        2364,
+        64,
+        13,
+        51510
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Vou",
+          "start": 110.16,
+          "end": 110.56,
+          "probability": 0.8387598395347595
+        },
+        {
+          "word": " para",
+          "start": 110.56,
+          "end": 110.68,
+          "probability": 0.6623356938362122
+        },
+        {
+          "word": " aqui",
+          "start": 110.68,
+          "end": 110.88,
+          "probability": 0.7249215841293335
+        },
+        {
+          "word": " que",
+          "start": 110.88,
+          "end": 110.94,
+          "probability": 0.7472808361053467
+        },
+        {
+          "word": " tenho",
+          "start": 110.94,
+          "end": 111.08,
+          "probability": 0.5739108920097351
+        },
+        {
+          "word": " que",
+          "start": 111.08,
+          "end": 111.18,
+          "probability": 0.5418332815170288
+        },
+        {
+          "word": " estacionar",
+          "start": 111.18,
+          "end": 111.64,
+          "probability": 0.8885716001192728
+        },
+        {
+          "word": " a",
+          "start": 111.64,
+          "end": 111.74,
+          "probability": 0.8516510725021362
+        },
+        {
+          "word": " picape,",
+          "start": 111.74,
+          "end": 112.16,
+          "probability": 0.8327767054239908
+        },
+        {
+          "word": " a",
+          "start": 112.2,
+          "end": 112.48,
+          "probability": 0.3453715443611145
+        },
+        {
+          "word": " lima.",
+          "start": 112.48,
+          "end": 112.7,
+          "probability": 0.6145350113511086
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 9000,
+      "start": 114.32,
+      "end": 114.72,
+      "text": " Aplausos.",
+      "tokens": [
+        51752,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51772
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 114.32,
+          "end": 114.72,
+          "probability": 0.5993617959320545
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 9000,
+      "start": 116.32,
+      "end": 116.72,
+      "text": " Aplausos.",
+      "tokens": [
+        51772,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51773
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 116.32,
+          "end": 116.72,
+          "probability": 0.7705607637763023
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 9000,
+      "start": 117.94,
+      "end": 118.34,
+      "text": " Aplausos.",
+      "tokens": [
+        51773,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51774
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 117.94,
+          "end": 118.34,
+          "probability": 0.8450692892074585
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 9000,
+      "start": 118.4,
+      "end": 118.4,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": []
+    },
+    {
+      "id": 22,
+      "seek": 9000,
+      "start": 118.42,
+      "end": 118.6,
+      "text": " Aplausos.",
+      "tokens": [
+        51775,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51776
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 118.42,
+          "end": 118.6,
+          "probability": 0.8830116987228394
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 9000,
+      "start": 118.74,
+      "end": 119.14,
+      "text": " Aplausos.",
+      "tokens": [
+        51776,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51777
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 118.74,
+          "end": 119.14,
+          "probability": 0.8762126564979553
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 9000,
+      "start": 119.14,
+      "end": 119.14,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": []
+    },
+    {
+      "id": 25,
+      "seek": 9000,
+      "start": 119.14,
+      "end": 119.14,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": []
+    },
+    {
+      "id": 26,
+      "seek": 9000,
+      "start": 119.14,
+      "end": 119.52,
+      "text": " Aplausos.",
+      "tokens": [
+        51782,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51783
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 119.14,
+          "end": 119.52,
+          "probability": 0.8821160942316055
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 9000,
+      "start": 119.52,
+      "end": 119.52,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": []
+    },
+    {
+      "id": 28,
+      "seek": 9000,
+      "start": 119.52,
+      "end": 119.56,
+      "text": " Aplausos.",
+      "tokens": [
+        51786,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51788
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 119.52,
+          "end": 119.56,
+          "probability": 0.8971185237169266
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 9000,
+      "start": 119.58,
+      "end": 119.58,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": []
+    },
+    {
+      "id": 30,
+      "seek": 9000,
+      "start": 119.58,
+      "end": 119.62,
+      "text": " Aplausos.",
+      "tokens": [
+        51789,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51792
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 119.58,
+          "end": 119.62,
+          "probability": 0.9139601439237595
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 9000,
+      "start": 119.62,
+      "end": 119.68,
+      "text": " Aplausos.",
+      "tokens": [
+        51792,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51794
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 119.62,
+          "end": 119.68,
+          "probability": 0.9217682629823685
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 9000,
+      "start": 119.92,
+      "end": 119.98,
+      "text": " Aplausos.",
+      "tokens": [
+        51794,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        51797
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2919772708362528,
+      "compression_ratio": 2.1737089201877935,
+      "no_speech_prob": 0.001426886534318328,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 119.92,
+          "end": 119.98,
+          "probability": 0.9290030300617218
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11998,
+      "start": 119.98,
+      "end": 120.36,
+      "text": " Aplausos.",
+      "tokens": [
+        50365,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50368
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 119.98,
+          "end": 120.36,
+          "probability": 0.48928839212749153
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11998,
+      "start": 120.36,
+      "end": 121.1,
+      "text": " Aplausos.",
+      "tokens": [
+        50368,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50369
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 120.36,
+          "end": 121.1,
+          "probability": 0.7364409836009145
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 11998,
+      "start": 121.1,
+      "end": 121.62,
+      "text": " Aplausos.",
+      "tokens": [
+        50370,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50385
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 121.1,
+          "end": 121.62,
+          "probability": 0.9651930332183838
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 11998,
+      "start": 121.62,
+      "end": 121.74,
+      "text": " Aplausos.",
+      "tokens": [
+        50401,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50424
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 121.62,
+          "end": 121.74,
+          "probability": 0.98357854783535
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 11998,
+      "start": 121.74,
+      "end": 122.08,
+      "text": " Aplausos.",
+      "tokens": [
+        50653,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50657
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 121.74,
+          "end": 122.08,
+          "probability": 0.994971439242363
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 11998,
+      "start": 122.08,
+      "end": 122.76,
+      "text": " Aplausos.",
+      "tokens": [
+        50657,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50658
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 122.08,
+          "end": 122.76,
+          "probability": 0.9972671866416931
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 11998,
+      "start": 123.76,
+      "end": 124.66,
+      "text": " Aplausos.",
+      "tokens": [
+        50664,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50668
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 123.76,
+          "end": 124.66,
+          "probability": 0.997970700263977
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 11998,
+      "start": 125.58,
+      "end": 126.48,
+      "text": " Aplausos.",
+      "tokens": [
+        50668,
+        316,
+        564,
+        8463,
+        329,
+        13,
+        50675
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7582940887986568,
+      "compression_ratio": 3.761904761904762,
+      "no_speech_prob": 0.0015732834581285715,
+      "words": [
+        {
+          "word": " Aplausos.",
+          "start": 125.58,
+          "end": 126.48,
+          "probability": 0.9982702136039734
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

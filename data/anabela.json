@@ -1,0 +1,6971 @@
+{
+  "text": " Ainda nem lhes dei a margem de ajuda e já está para a gente a telefonar. Querem ver? Bom dia. Bom dia. Quem fala? A Anabela de Malhadas. Olá, Anabela. Madrugou? Não, estou de férias agora. Está de férias? Estou. Estava com pressa de participar, não estava? Claro. E então, Qual é a margem de ajuda para o peso do saco hoje, Anabela? 2,130kg. O quê? 2,130kg. Você é terrível. Anabela, é o que dá a gente ligar de pressa de mais. O saco pesa mais de 4,50kg. Ah, 4kg já. Posso te dar o número avançado. O quê? Posso te dar o peso 3,20kg. Gosto de te ouvir, Anabela. O saco pesa mais de 4,50kg. Como é que pode ser 3,20kg, Anabela? Tem que ser mais de 4,50kg, mulher. Ah, 3,10kg. Entendeu? Isso é mais de 4,50kg? Não. Entendeu? Não. Anabela. Quem é? Tem que aumentar para a frente, Anabela. Um momento. Pois, Um momento. Ainda na imagem dei e a Anabela já está. Eu digo o que é mais de 4,50kg, a Anabela diz 3kg e não sei o quê. Complicado, Anabela. Vamos lá ver se assentam pouco as ideias para ver se ficamos definitivamente com o seu palpito ou não. Já nos disse com quem jogamos. Ainda não dei margem de ajuda, mas vou dar agora. Mais de 4,50kg. E entre. Entre 4,50kg e 4,50kg. É a nossa margem de ajuda para hoje, como habitualmente mais uma margem de 150g para participarem. Anabela. Estou. Vamos lá ou não? Vamos. Vamos. Não, a ver se toma nota e a ver se fica com atenção ao que eu lhe digo. É 3,50kg. Anabela. Hã? A ver se nos entendemos. Sim. É mais... 4kg. Quatro quilos e meio. Quatro quilos e meio, é tal. Nunca pode ser três e tal, que isso é menos de quatro e meio, Ana Bela. Três quilos... Ana Bela, você é é muito... Ana Bela, é mais de quatro e meio. Três e tal. Três quilos e tal é menos de quatro e meio. Tem que ser mais de quatro e meio. Três e... Mais de quatro, mais para a frente. Três não pode ser, Ana Bela. Três não pode ser. Não, vai me dar o fanico consigo, Ana Bela. Dois... Ana Bela, você está me a fazer transpirar, a sério. É mais de quatro e meio, Ana Bela. Mais de quatro e meio. Tem que ser três ou dois? Mais de três e mais de dois e mais de quatro, mulher. Três... Mais de quatro e meio, Ana Bela. Estou-me a ficar, Ana Bela. Tu dês... Tenha calma. Estou-me a ficar consigo. Mais de quatro e meio, Ana Bela. Tu dês cento e cinquenta, então. Mais para a frente. Tu dês cento e setenta. Mais para a frente, Ana Bela. Tu dês cento e noventa. Não, mais de quatro e meio, Ana Bela. Vai-me dar o treco consigo, Ana Bela. Tu dês... É mais de quatro e meio, Ana Bela. Tu dês cinco centos e cinquenta. Ana Bela. Diga. Diga. Mais de quatro quilos e meio. Três cento e tal. É menos de quatro e meio. Para cima de quatro e meio. Diga quatro quinhentos e qualquer coisa, mulher. Quatro quilos e vinte. Mais de quatro e meio, Ana Bela. Ai, Jesus. Ai, Jesus, para o que lhe deu hoje. Quatro... Quatro quinhentos e qualquer coisa. Diga. Quatro quinhentos e vinte. Pronto. Quatro quilos e quinhentos e vinte. Sim. Pronto, Ana Bela. Pronto. Está palpitado. Pronto. Um beijinho para ti. Está bem. Bom fim de semana. Obrigada. Ana Bela, lá conseguimos ficar com o pergunte desta nossa ouvinte de malhadas.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.6199999999999943,
+      "end": 4.72,
+      "text": " Ainda nem lhes dei a margem de ajuda e já está para a gente a telefonar. Querem ver?",
+      "tokens": [
+        50400,
+        316,
+        6837,
+        9939,
+        287,
+        8076,
+        13874,
+        257,
+        1849,
+        26322,
+        368,
+        32842,
+        308,
+        6242,
+        3192,
+        1690,
+        257,
+        3788,
+        257,
+        26812,
+        289,
+        13,
+        2326,
+        7333,
+        1306,
+        30,
+        50610
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Ainda",
+          "start": 0.6199999999999943,
+          "end": 1.02,
+          "probability": 0.9862619340419769
+        },
+        {
+          "word": " nem",
+          "start": 1.02,
+          "end": 1.32,
+          "probability": 0.9977118968963623
+        },
+        {
+          "word": " lhes",
+          "start": 1.32,
+          "end": 1.6,
+          "probability": 0.9884359240531921
+        },
+        {
+          "word": " dei",
+          "start": 1.6,
+          "end": 1.84,
+          "probability": 0.9989429116249084
+        },
+        {
+          "word": " a",
+          "start": 1.84,
+          "end": 2.04,
+          "probability": 0.9997453093528748
+        },
+        {
+          "word": " margem",
+          "start": 2.04,
+          "end": 2.38,
+          "probability": 0.9998791217803955
+        },
+        {
+          "word": " de",
+          "start": 2.38,
+          "end": 2.54,
+          "probability": 0.9998831748962402
+        },
+        {
+          "word": " ajuda",
+          "start": 2.54,
+          "end": 2.8,
+          "probability": 0.9997809529304504
+        },
+        {
+          "word": " e",
+          "start": 2.8,
+          "end": 3.0,
+          "probability": 0.9960741996765137
+        },
+        {
+          "word": " já",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.9998377561569214
+        },
+        {
+          "word": " está",
+          "start": 3.12,
+          "end": 3.3,
+          "probability": 0.9993757605552673
+        },
+        {
+          "word": " para",
+          "start": 3.3,
+          "end": 3.48,
+          "probability": 0.5556545853614807
+        },
+        {
+          "word": " a",
+          "start": 3.48,
+          "end": 3.52,
+          "probability": 0.4979870617389679
+        },
+        {
+          "word": " gente",
+          "start": 3.52,
+          "end": 3.68,
+          "probability": 0.7922118902206421
+        },
+        {
+          "word": " a",
+          "start": 3.68,
+          "end": 3.86,
+          "probability": 0.99155592918396
+        },
+        {
+          "word": " telefonar.",
+          "start": 3.86,
+          "end": 4.32,
+          "probability": 0.9998316168785095
+        },
+        {
+          "word": " Querem",
+          "start": 4.36,
+          "end": 4.5,
+          "probability": 0.8218614459037781
+        },
+        {
+          "word": " ver?",
+          "start": 4.5,
+          "end": 4.72,
+          "probability": 0.9779717922210693
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.82,
+      "end": 5.32,
+      "text": " Bom dia.",
+      "tokens": [
+        50615,
+        19812,
+        6801,
+        13,
+        50641
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Bom",
+          "start": 4.82,
+          "end": 5.06,
+          "probability": 0.9979896545410156
+        },
+        {
+          "word": " dia.",
+          "start": 5.06,
+          "end": 5.32,
+          "probability": 0.9999439716339111
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.62,
+      "end": 6.02,
+      "text": " Bom dia.",
+      "tokens": [
+        50650,
+        19812,
+        6801,
+        13,
+        50676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Bom",
+          "start": 5.62,
+          "end": 5.76,
+          "probability": 0.989035427570343
+        },
+        {
+          "word": " dia.",
+          "start": 5.76,
+          "end": 6.02,
+          "probability": 0.9999938011169434
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.3,
+      "end": 6.88,
+      "text": " Quem fala?",
+      "tokens": [
+        50691,
+        32342,
+        21580,
+        30,
+        50724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Quem",
+          "start": 6.3,
+          "end": 6.6,
+          "probability": 0.9989504814147949
+        },
+        {
+          "word": " fala?",
+          "start": 6.6,
+          "end": 6.88,
+          "probability": 0.9999804496765137
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.3,
+      "end": 8.12,
+      "text": " A Anabela de Malhadas.",
+      "tokens": [
+        50732,
+        316,
+        1107,
+        455,
+        4053,
+        368,
+        5746,
+        71,
+        6872,
+        13,
+        50779
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " A",
+          "start": 7.3,
+          "end": 7.38,
+          "probability": 0.35384002327919006
+        },
+        {
+          "word": " Anabela",
+          "start": 7.38,
+          "end": 7.64,
+          "probability": 0.7055703004201254
+        },
+        {
+          "word": " de",
+          "start": 7.64,
+          "end": 7.74,
+          "probability": 0.8920305371284485
+        },
+        {
+          "word": " Malhadas.",
+          "start": 7.74,
+          "end": 8.12,
+          "probability": 0.99220077196757
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 8.36,
+      "end": 9.16,
+      "text": " Olá, Anabela.",
+      "tokens": [
+        50786,
+        41811,
+        11,
+        1107,
+        455,
+        4053,
+        13,
+        50826
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Olá,",
+          "start": 8.36,
+          "end": 8.56,
+          "probability": 0.9999067783355713
+        },
+        {
+          "word": " Anabela.",
+          "start": 8.6,
+          "end": 9.16,
+          "probability": 0.999512235323588
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 10.26,
+      "end": 10.66,
+      "text": " Madrugou?",
+      "tokens": [
+        50882,
+        5326,
+        81,
+        697,
+        263,
+        30,
+        50902
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Madrugou?",
+          "start": 10.26,
+          "end": 10.66,
+          "probability": 0.998093992471695
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 10.86,
+      "end": 11.82,
+      "text": " Não, estou de férias agora.",
+      "tokens": [
+        50912,
+        8010,
+        11,
+        17660,
+        368,
+        283,
+        12052,
+        296,
+        9851,
+        13,
+        50967
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Não,",
+          "start": 10.86,
+          "end": 11.06,
+          "probability": 0.9989469647407532
+        },
+        {
+          "word": " estou",
+          "start": 11.1,
+          "end": 11.2,
+          "probability": 0.9978786706924438
+        },
+        {
+          "word": " de",
+          "start": 11.2,
+          "end": 11.34,
+          "probability": 0.9998188614845276
+        },
+        {
+          "word": " férias",
+          "start": 11.34,
+          "end": 11.62,
+          "probability": 0.9999020099639893
+        },
+        {
+          "word": " agora.",
+          "start": 11.62,
+          "end": 11.82,
+          "probability": 0.9998646974563599
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 12.18,
+      "end": 13.06,
+      "text": " Está de férias?",
+      "tokens": [
+        50977,
+        27304,
+        368,
+        283,
+        12052,
+        296,
+        30,
+        51020
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Está",
+          "start": 12.18,
+          "end": 12.3,
+          "probability": 0.9925928711891174
+        },
+        {
+          "word": " de",
+          "start": 12.3,
+          "end": 12.48,
+          "probability": 0.9999837875366211
+        },
+        {
+          "word": " férias?",
+          "start": 12.48,
+          "end": 13.06,
+          "probability": 0.9999945163726807
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 13.08,
+      "end": 13.22,
+      "text": " Estou.",
+      "tokens": [
+        51023,
+        4410,
+        263,
+        13,
+        51033
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Estou.",
+          "start": 13.08,
+          "end": 13.22,
+          "probability": 0.9972938895225525
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 13.54,
+      "end": 15.52,
+      "text": " Estava com pressa de participar, não estava?",
+      "tokens": [
+        51052,
+        4410,
+        4061,
+        395,
+        1886,
+        64,
+        368,
+        48703,
+        11,
+        2431,
+        15662,
+        30,
+        51149
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Estava",
+          "start": 13.54,
+          "end": 13.94,
+          "probability": 0.9999188780784607
+        },
+        {
+          "word": " com",
+          "start": 13.94,
+          "end": 14.1,
+          "probability": 0.9984233379364014
+        },
+        {
+          "word": " pressa",
+          "start": 14.1,
+          "end": 14.6,
+          "probability": 0.9987413287162781
+        },
+        {
+          "word": " de",
+          "start": 14.6,
+          "end": 14.68,
+          "probability": 0.9997759461402893
+        },
+        {
+          "word": " participar,",
+          "start": 14.68,
+          "end": 15.0,
+          "probability": 0.9999182224273682
+        },
+        {
+          "word": " não",
+          "start": 15.2,
+          "end": 15.28,
+          "probability": 0.9999945163726807
+        },
+        {
+          "word": " estava?",
+          "start": 15.28,
+          "end": 15.52,
+          "probability": 0.9987059831619263
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 15.72,
+      "end": 15.92,
+      "text": " Claro.",
+      "tokens": [
+        51151,
+        33380,
+        13,
+        51169
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Claro.",
+          "start": 15.72,
+          "end": 15.92,
+          "probability": 0.9993751645088196
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 16.5,
+      "end": 19.68,
+      "text": " E então, Qual é a margem de ajuda para o peso do saco hoje, Anabela?",
+      "tokens": [
+        51209,
+        462,
+        9071,
+        11,
+        13616,
+        1136,
+        257,
+        1849,
+        26322,
+        368,
+        32842,
+        1690,
+        277,
+        28149,
+        360,
+        4899,
+        78,
+        13458,
+        11,
+        1107,
+        455,
+        4053,
+        30,
+        51355
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " E",
+          "start": 16.5,
+          "end": 16.9,
+          "probability": 0.09969089925289154
+        },
+        {
+          "word": " então,",
+          "start": 16.9,
+          "end": 17.1,
+          "probability": 0.9996248483657837
+        },
+        {
+          "word": " Qual",
+          "start": 17.16,
+          "end": 17.28,
+          "probability": 1.4206457308318932e-05
+        },
+        {
+          "word": " é",
+          "start": 17.28,
+          "end": 17.42,
+          "probability": 0.9875730276107788
+        },
+        {
+          "word": " a",
+          "start": 17.42,
+          "end": 17.5,
+          "probability": 0.9987022876739502
+        },
+        {
+          "word": " margem",
+          "start": 17.5,
+          "end": 17.8,
+          "probability": 0.9948381781578064
+        },
+        {
+          "word": " de",
+          "start": 17.8,
+          "end": 17.94,
+          "probability": 0.9990377426147461
+        },
+        {
+          "word": " ajuda",
+          "start": 17.94,
+          "end": 18.18,
+          "probability": 0.9990460276603699
+        },
+        {
+          "word": " para",
+          "start": 18.18,
+          "end": 18.4,
+          "probability": 0.9872527718544006
+        },
+        {
+          "word": " o",
+          "start": 18.4,
+          "end": 18.48,
+          "probability": 0.9946775436401367
+        },
+        {
+          "word": " peso",
+          "start": 18.48,
+          "end": 18.66,
+          "probability": 0.9917035102844238
+        },
+        {
+          "word": " do",
+          "start": 18.66,
+          "end": 18.78,
+          "probability": 0.9973244667053223
+        },
+        {
+          "word": " saco",
+          "start": 18.78,
+          "end": 19.1,
+          "probability": 0.9916912913322449
+        },
+        {
+          "word": " hoje,",
+          "start": 19.1,
+          "end": 19.28,
+          "probability": 0.9639465808868408
+        },
+        {
+          "word": " Anabela?",
+          "start": 19.34,
+          "end": 19.68,
+          "probability": 0.9895458618799845
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 19.92,
+      "end": 21.58,
+      "text": " 2,130kg.",
+      "tokens": [
+        51368,
+        568,
+        11,
+        42438,
+        18302,
+        13,
+        51434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " 2",
+          "start": 19.92,
+          "end": 20.18,
+          "probability": 0.7328509092330933
+        },
+        {
+          "word": ",130kg.",
+          "start": 20.18,
+          "end": 21.58,
+          "probability": 0.5088220040003458
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 21.72,
+      "end": 22.14,
+      "text": " O quê?",
+      "tokens": [
+        51459,
+        422,
+        28605,
+        30,
+        51478
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " O",
+          "start": 21.72,
+          "end": 21.96,
+          "probability": 0.9786214232444763
+        },
+        {
+          "word": " quê?",
+          "start": 21.96,
+          "end": 22.14,
+          "probability": 0.8983504772186279
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 22.42,
+      "end": 23.78,
+      "text": " 2,130kg.",
+      "tokens": [
+        51497,
+        568,
+        11,
+        42438,
+        18302,
+        13,
+        51554
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " 2",
+          "start": 22.42,
+          "end": 22.82,
+          "probability": 0.9963018894195557
+        },
+        {
+          "word": ",130kg.",
+          "start": 22.82,
+          "end": 23.78,
+          "probability": 0.9982611536979675
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 0,
+      "start": 23.88,
+      "end": 24.72,
+      "text": " Você é terrível.",
+      "tokens": [
+        51566,
+        9781,
+        1136,
+        7245,
+        13185,
+        13,
+        51605
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21897366920613354,
+      "compression_ratio": 1.5582329317269077,
+      "no_speech_prob": 0.00983954407274723,
+      "words": [
+        {
+          "word": " Você",
+          "start": 23.88,
+          "end": 24.14,
+          "probability": 0.8765357136726379
+        },
+        {
+          "word": " é",
+          "start": 24.14,
+          "end": 24.32,
+          "probability": 0.9982727766036987
+        },
+        {
+          "word": " terrível.",
+          "start": 24.32,
+          "end": 24.72,
+          "probability": 0.9957450330257416
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2472,
+      "start": 25.5,
+      "end": 28.0,
+      "text": " Anabela, é o que dá a gente ligar de pressa de mais.",
+      "tokens": [
+        50365,
+        1107,
+        455,
+        4053,
+        11,
+        1136,
+        277,
+        631,
+        14401,
+        257,
+        3788,
+        11742,
+        289,
+        368,
+        1886,
+        64,
+        368,
+        2420,
+        13,
+        50539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Anabela,",
+          "start": 25.5,
+          "end": 25.94,
+          "probability": 0.6692071557044983
+        },
+        {
+          "word": " é",
+          "start": 25.98,
+          "end": 26.12,
+          "probability": 0.8600234985351562
+        },
+        {
+          "word": " o",
+          "start": 26.12,
+          "end": 26.36,
+          "probability": 0.7506634593009949
+        },
+        {
+          "word": " que",
+          "start": 26.36,
+          "end": 26.5,
+          "probability": 0.31272637844085693
+        },
+        {
+          "word": " dá",
+          "start": 26.5,
+          "end": 26.72,
+          "probability": 0.9360770583152771
+        },
+        {
+          "word": " a",
+          "start": 26.72,
+          "end": 26.84,
+          "probability": 0.8383273482322693
+        },
+        {
+          "word": " gente",
+          "start": 26.84,
+          "end": 26.98,
+          "probability": 0.9985643029212952
+        },
+        {
+          "word": " ligar",
+          "start": 26.98,
+          "end": 27.38,
+          "probability": 0.9779033362865448
+        },
+        {
+          "word": " de",
+          "start": 27.38,
+          "end": 27.44,
+          "probability": 0.10677771270275116
+        },
+        {
+          "word": " pressa",
+          "start": 27.44,
+          "end": 27.78,
+          "probability": 0.9960201978683472
+        },
+        {
+          "word": " de",
+          "start": 27.78,
+          "end": 27.82,
+          "probability": 0.004206170327961445
+        },
+        {
+          "word": " mais.",
+          "start": 27.82,
+          "end": 28.0,
+          "probability": 0.998035728931427
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2472,
+      "start": 28.18,
+      "end": 30.76,
+      "text": " O saco pesa mais de 4,50kg.",
+      "tokens": [
+        50560,
+        422,
+        4899,
+        78,
+        9262,
+        64,
+        2420,
+        368,
+        1017,
+        11,
+        2803,
+        18302,
+        13,
+        50671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " O",
+          "start": 28.18,
+          "end": 28.6,
+          "probability": 0.9981213212013245
+        },
+        {
+          "word": " saco",
+          "start": 28.6,
+          "end": 29.06,
+          "probability": 0.9856394827365875
+        },
+        {
+          "word": " pesa",
+          "start": 29.06,
+          "end": 29.38,
+          "probability": 0.9998618066310883
+        },
+        {
+          "word": " mais",
+          "start": 29.38,
+          "end": 29.54,
+          "probability": 0.999953031539917
+        },
+        {
+          "word": " de",
+          "start": 29.54,
+          "end": 29.7,
+          "probability": 0.9999586343765259
+        },
+        {
+          "word": " 4",
+          "start": 29.7,
+          "end": 29.92,
+          "probability": 0.8054848909378052
+        },
+        {
+          "word": ",50kg.",
+          "start": 29.92,
+          "end": 30.76,
+          "probability": 0.3280857160377006
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2472,
+      "start": 31.04,
+      "end": 31.82,
+      "text": " Ah, 4kg já.",
+      "tokens": [
+        50686,
+        2438,
+        11,
+        1017,
+        18302,
+        6242,
+        13,
+        50723
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 31.04,
+          "end": 31.14,
+          "probability": 0.9880886673927307
+        },
+        {
+          "word": " 4kg",
+          "start": 31.14,
+          "end": 31.64,
+          "probability": 0.9951380491256714
+        },
+        {
+          "word": " já.",
+          "start": 31.64,
+          "end": 31.82,
+          "probability": 0.5645644664764404
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2472,
+      "start": 31.84,
+      "end": 33.44,
+      "text": " Posso te dar o número avançado.",
+      "tokens": [
+        50728,
+        25906,
+        539,
+        535,
+        4072,
+        277,
+        14959,
+        1305,
+        12368,
+        1573,
+        13,
+        50808
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Posso",
+          "start": 31.84,
+          "end": 32.2,
+          "probability": 0.5731311962008476
+        },
+        {
+          "word": " te",
+          "start": 32.2,
+          "end": 32.22,
+          "probability": 0.5203794836997986
+        },
+        {
+          "word": " dar",
+          "start": 32.22,
+          "end": 32.3,
+          "probability": 0.9940208792686462
+        },
+        {
+          "word": " o",
+          "start": 32.3,
+          "end": 32.52,
+          "probability": 0.005077583249658346
+        },
+        {
+          "word": " número",
+          "start": 32.52,
+          "end": 32.84,
+          "probability": 0.9963623881340027
+        },
+        {
+          "word": " avançado.",
+          "start": 32.84,
+          "end": 33.44,
+          "probability": 0.9949416915575663
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2472,
+      "start": 34.16,
+      "end": 34.52,
+      "text": " O quê?",
+      "tokens": [
+        50844,
+        422,
+        28605,
+        30,
+        50860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " O",
+          "start": 34.16,
+          "end": 34.38,
+          "probability": 0.9923335313796997
+        },
+        {
+          "word": " quê?",
+          "start": 34.38,
+          "end": 34.52,
+          "probability": 0.9540802240371704
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2472,
+      "start": 34.78,
+      "end": 39.6,
+      "text": " Posso te dar o peso 3,20kg.",
+      "tokens": [
+        50878,
+        25906,
+        539,
+        535,
+        4072,
+        277,
+        28149,
+        805,
+        11,
+        2009,
+        18302,
+        13,
+        51109
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Posso",
+          "start": 34.78,
+          "end": 35.2,
+          "probability": 0.9984958171844482
+        },
+        {
+          "word": " te",
+          "start": 35.2,
+          "end": 35.28,
+          "probability": 0.9994078874588013
+        },
+        {
+          "word": " dar",
+          "start": 35.28,
+          "end": 35.36,
+          "probability": 0.999982476234436
+        },
+        {
+          "word": " o",
+          "start": 35.36,
+          "end": 35.46,
+          "probability": 0.37222975492477417
+        },
+        {
+          "word": " peso",
+          "start": 35.46,
+          "end": 35.7,
+          "probability": 0.9920117259025574
+        },
+        {
+          "word": " 3",
+          "start": 35.7,
+          "end": 37.22,
+          "probability": 0.4094354808330536
+        },
+        {
+          "word": ",20kg.",
+          "start": 37.22,
+          "end": 39.6,
+          "probability": 0.8927405675252279
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2472,
+      "start": 40.580000000000005,
+      "end": 41.9,
+      "text": " Gosto de te ouvir, Anabela.",
+      "tokens": [
+        51162,
+        460,
+        22756,
+        368,
+        535,
+        21157,
+        347,
+        11,
+        1107,
+        455,
+        4053,
+        13,
+        51230
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Gosto",
+          "start": 40.580000000000005,
+          "end": 41.02,
+          "probability": 0.9710352718830109
+        },
+        {
+          "word": " de",
+          "start": 41.02,
+          "end": 41.16,
+          "probability": 0.6286919116973877
+        },
+        {
+          "word": " te",
+          "start": 41.16,
+          "end": 41.3,
+          "probability": 0.9202737212181091
+        },
+        {
+          "word": " ouvir,",
+          "start": 41.3,
+          "end": 41.56,
+          "probability": 0.9999315142631531
+        },
+        {
+          "word": " Anabela.",
+          "start": 41.56,
+          "end": 41.9,
+          "probability": 0.9908419251441956
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2472,
+      "start": 42.16,
+      "end": 44.16,
+      "text": " O saco pesa mais de 4,50kg.",
+      "tokens": [
+        51258,
+        422,
+        4899,
+        78,
+        9262,
+        64,
+        2420,
+        368,
+        1017,
+        11,
+        2803,
+        18302,
+        13,
+        51350
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " O",
+          "start": 42.16,
+          "end": 42.6,
+          "probability": 0.9906003475189209
+        },
+        {
+          "word": " saco",
+          "start": 42.6,
+          "end": 42.92,
+          "probability": 0.9999587535858154
+        },
+        {
+          "word": " pesa",
+          "start": 42.92,
+          "end": 43.2,
+          "probability": 0.9999343752861023
+        },
+        {
+          "word": " mais",
+          "start": 43.2,
+          "end": 43.36,
+          "probability": 0.9999808073043823
+        },
+        {
+          "word": " de",
+          "start": 43.36,
+          "end": 43.52,
+          "probability": 0.9999918937683105
+        },
+        {
+          "word": " 4",
+          "start": 43.52,
+          "end": 43.74,
+          "probability": 0.9999370574951172
+        },
+        {
+          "word": ",50kg.",
+          "start": 43.74,
+          "end": 44.16,
+          "probability": 0.9950220386187235
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 2472,
+      "start": 44.16,
+      "end": 46.28,
+      "text": " Como é que pode ser 3,20kg, Anabela?",
+      "tokens": [
+        51355,
+        11913,
+        1136,
+        631,
+        7468,
+        816,
+        805,
+        11,
+        2009,
+        18302,
+        11,
+        1107,
+        455,
+        4053,
+        30,
+        51449
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Como",
+          "start": 44.16,
+          "end": 44.54,
+          "probability": 0.9967030882835388
+        },
+        {
+          "word": " é",
+          "start": 44.54,
+          "end": 44.64,
+          "probability": 0.9990309476852417
+        },
+        {
+          "word": " que",
+          "start": 44.64,
+          "end": 44.68,
+          "probability": 0.9999961853027344
+        },
+        {
+          "word": " pode",
+          "start": 44.68,
+          "end": 44.82,
+          "probability": 0.9998750686645508
+        },
+        {
+          "word": " ser",
+          "start": 44.82,
+          "end": 45.02,
+          "probability": 0.9887490272521973
+        },
+        {
+          "word": " 3",
+          "start": 45.02,
+          "end": 45.26,
+          "probability": 0.8201520442962646
+        },
+        {
+          "word": ",20kg,",
+          "start": 45.26,
+          "end": 45.9,
+          "probability": 0.9889023701349894
+        },
+        {
+          "word": " Anabela?",
+          "start": 45.94,
+          "end": 46.28,
+          "probability": 0.9990363717079163
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 2472,
+      "start": 46.54,
+      "end": 49.6,
+      "text": " Tem que ser mais de 4,50kg, mulher.",
+      "tokens": [
+        51493,
+        8095,
+        631,
+        816,
+        2420,
+        368,
+        1017,
+        11,
+        2803,
+        18302,
+        11,
+        33211,
+        13,
+        51613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Tem",
+          "start": 46.54,
+          "end": 46.8,
+          "probability": 0.9501231908798218
+        },
+        {
+          "word": " que",
+          "start": 46.8,
+          "end": 47.74,
+          "probability": 0.9992282390594482
+        },
+        {
+          "word": " ser",
+          "start": 47.74,
+          "end": 47.92,
+          "probability": 0.9998012185096741
+        },
+        {
+          "word": " mais",
+          "start": 47.92,
+          "end": 48.18,
+          "probability": 0.9998334646224976
+        },
+        {
+          "word": " de",
+          "start": 48.18,
+          "end": 48.38,
+          "probability": 0.9999642372131348
+        },
+        {
+          "word": " 4",
+          "start": 48.38,
+          "end": 48.72,
+          "probability": 0.9999186992645264
+        },
+        {
+          "word": ",50kg,",
+          "start": 48.72,
+          "end": 49.26,
+          "probability": 0.9807506799697876
+        },
+        {
+          "word": " mulher.",
+          "start": 49.32,
+          "end": 49.6,
+          "probability": 0.9981322884559631
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 2472,
+      "start": 49.92,
+      "end": 50.76,
+      "text": " Ah, 3,10kg.",
+      "tokens": [
+        51626,
+        2438,
+        11,
+        805,
+        11,
+        3279,
+        18302,
+        13,
+        51678
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 49.92,
+          "end": 50.06,
+          "probability": 0.9876325130462646
+        },
+        {
+          "word": " 3",
+          "start": 50.08,
+          "end": 50.34,
+          "probability": 0.9990159273147583
+        },
+        {
+          "word": ",10kg.",
+          "start": 50.34,
+          "end": 50.76,
+          "probability": 0.9882705211639404
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 2472,
+      "start": 51.14,
+      "end": 51.58,
+      "text": " Entendeu?",
+      "tokens": [
+        51722,
+        3951,
+        36202,
+        30,
+        51742
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Entendeu?",
+          "start": 51.14,
+          "end": 51.58,
+          "probability": 0.1764864932247292
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 2472,
+      "start": 51.94,
+      "end": 53.3,
+      "text": " Isso é mais de 4,50kg?",
+      "tokens": [
+        51742,
+        14887,
+        1136,
+        2420,
+        368,
+        1017,
+        11,
+        2803,
+        18302,
+        30,
+        51797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Isso",
+          "start": 51.94,
+          "end": 52.38,
+          "probability": 0.03597614914178848
+        },
+        {
+          "word": " é",
+          "start": 52.38,
+          "end": 52.52,
+          "probability": 0.9970818161964417
+        },
+        {
+          "word": " mais",
+          "start": 52.52,
+          "end": 52.68,
+          "probability": 0.9995583891868591
+        },
+        {
+          "word": " de",
+          "start": 52.68,
+          "end": 52.76,
+          "probability": 0.9991598129272461
+        },
+        {
+          "word": " 4",
+          "start": 52.76,
+          "end": 52.9,
+          "probability": 0.9998860359191895
+        },
+        {
+          "word": ",50kg?",
+          "start": 52.9,
+          "end": 53.3,
+          "probability": 0.9812971949577332
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 2472,
+      "start": 53.56,
+      "end": 53.88,
+      "text": " Não.",
+      "tokens": [
+        51815,
+        8010,
+        13,
+        51827
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Não.",
+          "start": 53.56,
+          "end": 53.88,
+          "probability": 0.9673552513122559
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 2472,
+      "start": 54.12,
+      "end": 54.56,
+      "text": " Entendeu?",
+      "tokens": [
+        51844,
+        3951,
+        36202,
+        30,
+        51863
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236093381556069,
+      "compression_ratio": 1.6527777777777777,
+      "no_speech_prob": 0.0008500531548634171,
+      "words": [
+        {
+          "word": " Entendeu?",
+          "start": 54.12,
+          "end": 54.56,
+          "probability": 0.47416386590339243
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 5472,
+      "start": 54.72,
+      "end": 55.2,
+      "text": " Não.",
+      "tokens": [
+        50389,
+        8010,
+        13,
+        50398
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Não.",
+          "start": 54.72,
+          "end": 55.2,
+          "probability": 0.002918886486440897
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 5472,
+      "start": 56.06,
+      "end": 56.5,
+      "text": " Anabela.",
+      "tokens": [
+        50440,
+        1107,
+        455,
+        4053,
+        13,
+        50458
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Anabela.",
+          "start": 56.06,
+          "end": 56.5,
+          "probability": 0.6636973321437836
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 5472,
+      "start": 57.06,
+      "end": 57.72,
+      "text": " Quem é?",
+      "tokens": [
+        50494,
+        32342,
+        1136,
+        30,
+        50522
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Quem",
+          "start": 57.06,
+          "end": 57.5,
+          "probability": 0.3887301981449127
+        },
+        {
+          "word": " é?",
+          "start": 57.5,
+          "end": 57.72,
+          "probability": 0.9692674875259399
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 5472,
+      "start": 57.92,
+      "end": 59.6,
+      "text": " Tem que aumentar para a frente, Anabela.",
+      "tokens": [
+        50532,
+        8095,
+        631,
+        43504,
+        1690,
+        257,
+        19873,
+        11,
+        1107,
+        455,
+        4053,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Tem",
+          "start": 57.92,
+          "end": 58.18,
+          "probability": 0.9781816601753235
+        },
+        {
+          "word": " que",
+          "start": 58.18,
+          "end": 58.26,
+          "probability": 0.9974299073219299
+        },
+        {
+          "word": " aumentar",
+          "start": 58.26,
+          "end": 58.46,
+          "probability": 0.9967995882034302
+        },
+        {
+          "word": " para",
+          "start": 58.46,
+          "end": 58.78,
+          "probability": 0.9860024452209473
+        },
+        {
+          "word": " a",
+          "start": 58.78,
+          "end": 58.9,
+          "probability": 0.988660454750061
+        },
+        {
+          "word": " frente,",
+          "start": 58.9,
+          "end": 59.12,
+          "probability": 0.9998941421508789
+        },
+        {
+          "word": " Anabela.",
+          "start": 59.16,
+          "end": 59.6,
+          "probability": 0.9974919358889262
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 5472,
+      "start": 59.82,
+      "end": 60.18,
+      "text": " Um momento.",
+      "tokens": [
+        50626,
+        3301,
+        9333,
+        13,
+        50644
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Um",
+          "start": 59.82,
+          "end": 59.94,
+          "probability": 0.7926575541496277
+        },
+        {
+          "word": " momento.",
+          "start": 59.94,
+          "end": 60.18,
+          "probability": 0.9998546838760376
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 5472,
+      "start": 60.68,
+      "end": 61.88,
+      "text": " Pois, Um momento.",
+      "tokens": [
+        50675,
+        48274,
+        11,
+        3301,
+        9333,
+        13,
+        50737
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Pois,",
+          "start": 60.68,
+          "end": 61.12,
+          "probability": 0.9935414791107178
+        },
+        {
+          "word": " Um",
+          "start": 61.34,
+          "end": 61.52,
+          "probability": 4.28028215537779e-06
+        },
+        {
+          "word": " momento.",
+          "start": 61.52,
+          "end": 61.88,
+          "probability": 0.9865713715553284
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 5472,
+      "start": 62.16,
+      "end": 64.56,
+      "text": " Ainda na imagem dei e a Anabela já está.",
+      "tokens": [
+        50746,
+        316,
+        6837,
+        1667,
+        43824,
+        13874,
+        308,
+        257,
+        1107,
+        455,
+        4053,
+        6242,
+        3192,
+        13,
+        50867
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Ainda",
+          "start": 62.16,
+          "end": 62.4,
+          "probability": 0.9918472170829773
+        },
+        {
+          "word": " na",
+          "start": 62.4,
+          "end": 62.56,
+          "probability": 0.6540712714195251
+        },
+        {
+          "word": " imagem",
+          "start": 62.56,
+          "end": 62.86,
+          "probability": 0.990043044090271
+        },
+        {
+          "word": " dei",
+          "start": 62.86,
+          "end": 63.16,
+          "probability": 0.9849890470504761
+        },
+        {
+          "word": " e",
+          "start": 63.16,
+          "end": 63.56,
+          "probability": 0.14000532031059265
+        },
+        {
+          "word": " a",
+          "start": 63.56,
+          "end": 63.94,
+          "probability": 0.774491548538208
+        },
+        {
+          "word": " Anabela",
+          "start": 63.94,
+          "end": 64.2,
+          "probability": 0.9989657402038574
+        },
+        {
+          "word": " já",
+          "start": 64.2,
+          "end": 64.38,
+          "probability": 0.9940429329872131
+        },
+        {
+          "word": " está.",
+          "start": 64.38,
+          "end": 64.56,
+          "probability": 0.9307856559753418
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 5472,
+      "start": 64.94,
+      "end": 69.66,
+      "text": " Eu digo o que é mais de 4,50kg, a Anabela diz 3kg e não sei o quê.",
+      "tokens": [
+        50894,
+        2186,
+        22990,
+        277,
+        631,
+        1136,
+        2420,
+        368,
+        1017,
+        11,
+        2803,
+        18302,
+        11,
+        257,
+        1107,
+        455,
+        4053,
+        12098,
+        805,
+        18302,
+        308,
+        2431,
+        10842,
+        277,
+        28605,
+        13,
+        51116
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 64.94,
+          "end": 65.38,
+          "probability": 0.9962446093559265
+        },
+        {
+          "word": " digo",
+          "start": 65.38,
+          "end": 65.62,
+          "probability": 0.9992361068725586
+        },
+        {
+          "word": " o",
+          "start": 65.62,
+          "end": 65.68,
+          "probability": 0.19065439701080322
+        },
+        {
+          "word": " que",
+          "start": 65.68,
+          "end": 65.74,
+          "probability": 0.9905503988265991
+        },
+        {
+          "word": " é",
+          "start": 65.74,
+          "end": 65.86,
+          "probability": 0.9964610934257507
+        },
+        {
+          "word": " mais",
+          "start": 65.86,
+          "end": 66.04,
+          "probability": 0.8116963505744934
+        },
+        {
+          "word": " de",
+          "start": 66.04,
+          "end": 66.34,
+          "probability": 0.9908677339553833
+        },
+        {
+          "word": " 4",
+          "start": 66.34,
+          "end": 66.52,
+          "probability": 0.7846889495849609
+        },
+        {
+          "word": ",50kg,",
+          "start": 66.52,
+          "end": 67.22,
+          "probability": 0.3204033837343256
+        },
+        {
+          "word": " a",
+          "start": 67.22,
+          "end": 67.66,
+          "probability": 0.546886146068573
+        },
+        {
+          "word": " Anabela",
+          "start": 67.66,
+          "end": 68.1,
+          "probability": 0.9988512794176737
+        },
+        {
+          "word": " diz",
+          "start": 68.1,
+          "end": 68.34,
+          "probability": 0.9987671375274658
+        },
+        {
+          "word": " 3kg",
+          "start": 68.34,
+          "end": 69.0,
+          "probability": 0.9580910801887512
+        },
+        {
+          "word": " e",
+          "start": 69.0,
+          "end": 69.22,
+          "probability": 0.9940821528434753
+        },
+        {
+          "word": " não",
+          "start": 69.22,
+          "end": 69.3,
+          "probability": 0.9993696808815002
+        },
+        {
+          "word": " sei",
+          "start": 69.3,
+          "end": 69.46,
+          "probability": 0.9997487664222717
+        },
+        {
+          "word": " o",
+          "start": 69.46,
+          "end": 69.54,
+          "probability": 0.9555436968803406
+        },
+        {
+          "word": " quê.",
+          "start": 69.54,
+          "end": 69.66,
+          "probability": 0.3245735168457031
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 5472,
+      "start": 71.10000000000001,
+      "end": 71.9,
+      "text": " Complicado, Anabela.",
+      "tokens": [
+        51189,
+        2432,
+        4770,
+        1573,
+        11,
+        1107,
+        455,
+        4053,
+        13,
+        51230
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Complicado,",
+          "start": 71.10000000000001,
+          "end": 71.54,
+          "probability": 0.7600664496421814
+        },
+        {
+          "word": " Anabela.",
+          "start": 71.54,
+          "end": 71.9,
+          "probability": 0.9940299987792969
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 5472,
+      "start": 72.18,
+      "end": 76.8,
+      "text": " Vamos lá ver se assentam pouco as ideias para ver se ficamos definitivamente com o seu",
+      "tokens": [
+        51256,
+        10894,
+        7453,
+        1306,
+        369,
+        1256,
+        317,
+        335,
+        13920,
+        382,
+        1153,
+        4609,
+        1690,
+        1306,
+        369,
+        14591,
+        2151,
+        28781,
+        23957,
+        395,
+        277,
+        7986,
+        51472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 72.18,
+          "end": 72.62,
+          "probability": 0.9988032579421997
+        },
+        {
+          "word": " lá",
+          "start": 72.62,
+          "end": 72.76,
+          "probability": 0.9859092831611633
+        },
+        {
+          "word": " ver",
+          "start": 72.76,
+          "end": 72.92,
+          "probability": 0.9971786737442017
+        },
+        {
+          "word": " se",
+          "start": 72.92,
+          "end": 73.1,
+          "probability": 0.9994686245918274
+        },
+        {
+          "word": " assentam",
+          "start": 73.1,
+          "end": 73.98,
+          "probability": 0.7372993032137553
+        },
+        {
+          "word": " pouco",
+          "start": 73.98,
+          "end": 74.12,
+          "probability": 0.00823038537055254
+        },
+        {
+          "word": " as",
+          "start": 74.12,
+          "end": 74.32,
+          "probability": 0.9963781237602234
+        },
+        {
+          "word": " ideias",
+          "start": 74.32,
+          "end": 74.78,
+          "probability": 0.9995677471160889
+        },
+        {
+          "word": " para",
+          "start": 74.78,
+          "end": 75.16,
+          "probability": 0.8467673063278198
+        },
+        {
+          "word": " ver",
+          "start": 75.16,
+          "end": 75.34,
+          "probability": 0.9999172687530518
+        },
+        {
+          "word": " se",
+          "start": 75.34,
+          "end": 75.44,
+          "probability": 0.9992503523826599
+        },
+        {
+          "word": " ficamos",
+          "start": 75.44,
+          "end": 75.7,
+          "probability": 0.9930105805397034
+        },
+        {
+          "word": " definitivamente",
+          "start": 75.7,
+          "end": 76.32,
+          "probability": 0.9056394994258881
+        },
+        {
+          "word": " com",
+          "start": 76.32,
+          "end": 76.58,
+          "probability": 0.9890018701553345
+        },
+        {
+          "word": " o",
+          "start": 76.58,
+          "end": 76.62,
+          "probability": 0.9752209782600403
+        },
+        {
+          "word": " seu",
+          "start": 76.62,
+          "end": 76.8,
+          "probability": 0.8234898447990417
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 5472,
+      "start": 76.8,
+      "end": 77.36,
+      "text": " palpito ou não.",
+      "tokens": [
+        51472,
+        3984,
+        79,
+        3528,
+        2820,
+        2431,
+        13,
+        51503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " palpito",
+          "start": 76.8,
+          "end": 77.14,
+          "probability": 0.6165955166021982
+        },
+        {
+          "word": " ou",
+          "start": 77.14,
+          "end": 77.26,
+          "probability": 0.9866997003555298
+        },
+        {
+          "word": " não.",
+          "start": 77.26,
+          "end": 77.36,
+          "probability": 0.9999209642410278
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 5472,
+      "start": 77.62,
+      "end": 79.06,
+      "text": " Já nos disse com quem jogamos.",
+      "tokens": [
+        51525,
+        21237,
+        3269,
+        17581,
+        395,
+        13026,
+        9464,
+        2151,
+        13,
+        51587
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Já",
+          "start": 77.62,
+          "end": 78.06,
+          "probability": 0.9939616322517395
+        },
+        {
+          "word": " nos",
+          "start": 78.06,
+          "end": 78.16,
+          "probability": 0.8160535097122192
+        },
+        {
+          "word": " disse",
+          "start": 78.16,
+          "end": 78.32,
+          "probability": 0.9626902937889099
+        },
+        {
+          "word": " com",
+          "start": 78.32,
+          "end": 78.46,
+          "probability": 0.9992988109588623
+        },
+        {
+          "word": " quem",
+          "start": 78.46,
+          "end": 78.62,
+          "probability": 0.9999380111694336
+        },
+        {
+          "word": " jogamos.",
+          "start": 78.62,
+          "end": 79.06,
+          "probability": 0.9873386025428772
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 5472,
+      "start": 79.12,
+      "end": 80.86,
+      "text": " Ainda não dei margem de ajuda, mas vou dar agora.",
+      "tokens": [
+        51587,
+        316,
+        6837,
+        2431,
+        13874,
+        1849,
+        26322,
+        368,
+        32842,
+        11,
+        2300,
+        6008,
+        4072,
+        9851,
+        13,
+        51682
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Ainda",
+          "start": 79.12,
+          "end": 79.32,
+          "probability": 0.9977306425571442
+        },
+        {
+          "word": " não",
+          "start": 79.32,
+          "end": 79.46,
+          "probability": 0.9991794228553772
+        },
+        {
+          "word": " dei",
+          "start": 79.46,
+          "end": 79.62,
+          "probability": 0.9825543761253357
+        },
+        {
+          "word": " margem",
+          "start": 79.62,
+          "end": 79.88,
+          "probability": 0.8288814425468445
+        },
+        {
+          "word": " de",
+          "start": 79.88,
+          "end": 79.98,
+          "probability": 0.9996484518051147
+        },
+        {
+          "word": " ajuda,",
+          "start": 79.98,
+          "end": 80.12,
+          "probability": 0.9992690682411194
+        },
+        {
+          "word": " mas",
+          "start": 80.24,
+          "end": 80.36,
+          "probability": 0.9979928731918335
+        },
+        {
+          "word": " vou",
+          "start": 80.36,
+          "end": 80.46,
+          "probability": 0.9996387958526611
+        },
+        {
+          "word": " dar",
+          "start": 80.46,
+          "end": 80.6,
+          "probability": 0.9995487332344055
+        },
+        {
+          "word": " agora.",
+          "start": 80.6,
+          "end": 80.86,
+          "probability": 0.9998807907104492
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 5472,
+      "start": 81.14,
+      "end": 82.8,
+      "text": " Mais de 4,50kg.",
+      "tokens": [
+        51701,
+        6313,
+        368,
+        1017,
+        11,
+        2803,
+        18302,
+        13,
+        51778
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 81.14,
+          "end": 81.58,
+          "probability": 0.9960082769393921
+        },
+        {
+          "word": " de",
+          "start": 81.58,
+          "end": 81.74,
+          "probability": 0.9999581575393677
+        },
+        {
+          "word": " 4",
+          "start": 81.74,
+          "end": 81.98,
+          "probability": 0.9998718500137329
+        },
+        {
+          "word": ",50kg.",
+          "start": 81.98,
+          "end": 82.8,
+          "probability": 0.993900199731191
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 5472,
+      "start": 83.02,
+      "end": 83.9,
+      "text": " E entre.",
+      "tokens": [
+        51802,
+        462,
+        3962,
+        13,
+        51832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23449080496123342,
+      "compression_ratio": 1.6273062730627306,
+      "no_speech_prob": 0.0073996298015117645,
+      "words": [
+        {
+          "word": " E",
+          "start": 83.02,
+          "end": 83.46,
+          "probability": 0.8078053593635559
+        },
+        {
+          "word": " entre.",
+          "start": 83.46,
+          "end": 83.9,
+          "probability": 0.9617448449134827
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 8390,
+      "start": 83.9,
+      "end": 87.8,
+      "text": " Entre 4,50kg e 4,50kg.",
+      "tokens": [
+        50365,
+        27979,
+        1017,
+        11,
+        2803,
+        18302,
+        308,
+        1017,
+        11,
+        2803,
+        18302,
+        13,
+        50616
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Entre",
+          "start": 83.9,
+          "end": 84.06,
+          "probability": 0.20369523763656616
+        },
+        {
+          "word": " 4",
+          "start": 84.06,
+          "end": 84.3,
+          "probability": 0.9392983913421631
+        },
+        {
+          "word": ",50kg",
+          "start": 84.3,
+          "end": 85.14,
+          "probability": 0.3484058417379856
+        },
+        {
+          "word": " e",
+          "start": 85.14,
+          "end": 85.44,
+          "probability": 0.9773905873298645
+        },
+        {
+          "word": " 4",
+          "start": 85.44,
+          "end": 85.84,
+          "probability": 0.9991014003753662
+        },
+        {
+          "word": ",50kg.",
+          "start": 85.84,
+          "end": 87.8,
+          "probability": 0.8176860709985098
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 8390,
+      "start": 88.52,
+      "end": 94.2,
+      "text": " É a nossa margem de ajuda para hoje, como habitualmente mais uma margem de 150g para",
+      "tokens": [
+        50622,
+        4922,
+        257,
+        15821,
+        1849,
+        26322,
+        368,
+        32842,
+        1690,
+        13458,
+        11,
+        2617,
+        46883,
+        4082,
+        2420,
+        2772,
+        1849,
+        26322,
+        368,
+        8451,
+        70,
+        1690,
+        50888
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " É",
+          "start": 88.52,
+          "end": 89.02,
+          "probability": 0.9397707581520081
+        },
+        {
+          "word": " a",
+          "start": 89.02,
+          "end": 89.1,
+          "probability": 0.993030846118927
+        },
+        {
+          "word": " nossa",
+          "start": 89.1,
+          "end": 89.24,
+          "probability": 0.9999693632125854
+        },
+        {
+          "word": " margem",
+          "start": 89.24,
+          "end": 89.6,
+          "probability": 0.999542623758316
+        },
+        {
+          "word": " de",
+          "start": 89.6,
+          "end": 89.7,
+          "probability": 0.9999631643295288
+        },
+        {
+          "word": " ajuda",
+          "start": 89.7,
+          "end": 89.86,
+          "probability": 0.9996305704116821
+        },
+        {
+          "word": " para",
+          "start": 89.86,
+          "end": 90.06,
+          "probability": 0.9990125894546509
+        },
+        {
+          "word": " hoje,",
+          "start": 90.06,
+          "end": 90.36,
+          "probability": 0.9999129772186279
+        },
+        {
+          "word": " como",
+          "start": 90.48,
+          "end": 90.92,
+          "probability": 0.8554234504699707
+        },
+        {
+          "word": " habitualmente",
+          "start": 90.92,
+          "end": 91.44,
+          "probability": 0.9988930523395538
+        },
+        {
+          "word": " mais",
+          "start": 91.44,
+          "end": 91.62,
+          "probability": 0.45305630564689636
+        },
+        {
+          "word": " uma",
+          "start": 91.62,
+          "end": 91.76,
+          "probability": 0.9996002316474915
+        },
+        {
+          "word": " margem",
+          "start": 91.76,
+          "end": 92.14,
+          "probability": 0.9999724626541138
+        },
+        {
+          "word": " de",
+          "start": 92.14,
+          "end": 92.4,
+          "probability": 0.9998743534088135
+        },
+        {
+          "word": " 150g",
+          "start": 92.4,
+          "end": 93.48,
+          "probability": 0.9485136866569519
+        },
+        {
+          "word": " para",
+          "start": 93.48,
+          "end": 94.2,
+          "probability": 0.9993034601211548
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 8390,
+      "start": 94.2,
+      "end": 94.94,
+      "text": " participarem.",
+      "tokens": [
+        50888,
+        3421,
+        19183,
+        13,
+        50921
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " participarem.",
+          "start": 94.2,
+          "end": 94.94,
+          "probability": 0.9957673251628876
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 8390,
+      "start": 95.04,
+      "end": 95.44,
+      "text": " Anabela.",
+      "tokens": [
+        50928,
+        1107,
+        455,
+        4053,
+        13,
+        50950
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Anabela.",
+          "start": 95.04,
+          "end": 95.44,
+          "probability": 0.750103493531545
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 8390,
+      "start": 96.48,
+      "end": 96.98,
+      "text": " Estou.",
+      "tokens": [
+        51006,
+        4410,
+        263,
+        13,
+        51026
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Estou.",
+          "start": 96.48,
+          "end": 96.98,
+          "probability": 0.9290512502193451
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 8390,
+      "start": 97.14,
+      "end": 97.98,
+      "text": " Vamos lá ou não?",
+      "tokens": [
+        51037,
+        10894,
+        7453,
+        2820,
+        2431,
+        30,
+        51078
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 97.14,
+          "end": 97.54,
+          "probability": 0.9992254972457886
+        },
+        {
+          "word": " lá",
+          "start": 97.54,
+          "end": 97.74,
+          "probability": 0.9987037181854248
+        },
+        {
+          "word": " ou",
+          "start": 97.74,
+          "end": 97.8,
+          "probability": 0.997055172920227
+        },
+        {
+          "word": " não?",
+          "start": 97.8,
+          "end": 97.98,
+          "probability": 0.9999886751174927
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 8390,
+      "start": 98.3,
+      "end": 98.66,
+      "text": " Vamos.",
+      "tokens": [
+        51090,
+        10894,
+        13,
+        51110
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Vamos.",
+          "start": 98.3,
+          "end": 98.66,
+          "probability": 0.9983615279197693
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 8390,
+      "start": 99.12,
+      "end": 99.62,
+      "text": " Vamos.",
+      "tokens": [
+        51142,
+        10894,
+        13,
+        51154
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Vamos.",
+          "start": 99.12,
+          "end": 99.62,
+          "probability": 0.0004558810032904148
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 8390,
+      "start": 99.62,
+      "end": 102.52,
+      "text": " Não, a ver se toma nota e a ver se fica com atenção ao que eu lhe digo.",
+      "tokens": [
+        51154,
+        8010,
+        11,
+        257,
+        1306,
+        369,
+        39728,
+        36192,
+        308,
+        257,
+        1306,
+        369,
+        16868,
+        395,
+        39044,
+        8130,
+        631,
+        2228,
+        287,
+        675,
+        22990,
+        13,
+        51304
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Não,",
+          "start": 99.62,
+          "end": 99.62,
+          "probability": 0.00014602960436604917
+        },
+        {
+          "word": " a",
+          "start": 99.7,
+          "end": 99.76,
+          "probability": 0.21296851336956024
+        },
+        {
+          "word": " ver",
+          "start": 99.76,
+          "end": 99.82,
+          "probability": 0.2607820928096771
+        },
+        {
+          "word": " se",
+          "start": 99.82,
+          "end": 99.94,
+          "probability": 0.9981216788291931
+        },
+        {
+          "word": " toma",
+          "start": 99.94,
+          "end": 100.24,
+          "probability": 0.7166439890861511
+        },
+        {
+          "word": " nota",
+          "start": 100.24,
+          "end": 100.62,
+          "probability": 0.9990584254264832
+        },
+        {
+          "word": " e",
+          "start": 100.62,
+          "end": 100.82,
+          "probability": 0.9954376816749573
+        },
+        {
+          "word": " a",
+          "start": 100.82,
+          "end": 100.96,
+          "probability": 0.9853373169898987
+        },
+        {
+          "word": " ver",
+          "start": 100.96,
+          "end": 101.02,
+          "probability": 0.9977986216545105
+        },
+        {
+          "word": " se",
+          "start": 101.02,
+          "end": 101.1,
+          "probability": 0.9999473094940186
+        },
+        {
+          "word": " fica",
+          "start": 101.1,
+          "end": 101.32,
+          "probability": 0.9999066591262817
+        },
+        {
+          "word": " com",
+          "start": 101.32,
+          "end": 101.48,
+          "probability": 0.9999756813049316
+        },
+        {
+          "word": " atenção",
+          "start": 101.48,
+          "end": 101.78,
+          "probability": 0.9905995726585388
+        },
+        {
+          "word": " ao",
+          "start": 101.78,
+          "end": 102.0,
+          "probability": 0.9943221807479858
+        },
+        {
+          "word": " que",
+          "start": 102.0,
+          "end": 102.04,
+          "probability": 0.9999659061431885
+        },
+        {
+          "word": " eu",
+          "start": 102.04,
+          "end": 102.18,
+          "probability": 0.9987680315971375
+        },
+        {
+          "word": " lhe",
+          "start": 102.18,
+          "end": 102.28,
+          "probability": 0.9999455213546753
+        },
+        {
+          "word": " digo.",
+          "start": 102.28,
+          "end": 102.52,
+          "probability": 0.9999337196350098
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 8390,
+      "start": 102.86,
+      "end": 105.02,
+      "text": " É 3,50kg.",
+      "tokens": [
+        51320,
+        4922,
+        805,
+        11,
+        2803,
+        18302,
+        13,
+        51404
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " É",
+          "start": 102.86,
+          "end": 103.02,
+          "probability": 0.036402568221092224
+        },
+        {
+          "word": " 3",
+          "start": 103.02,
+          "end": 103.52,
+          "probability": 0.8972124457359314
+        },
+        {
+          "word": ",50kg.",
+          "start": 103.52,
+          "end": 105.02,
+          "probability": 0.6856798206766447
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 8390,
+      "start": 107.72,
+      "end": 108.22,
+      "text": " Anabela.",
+      "tokens": [
+        51566,
+        1107,
+        455,
+        4053,
+        13,
+        51588
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Anabela.",
+          "start": 107.72,
+          "end": 108.22,
+          "probability": 0.9971276919047037
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 8390,
+      "start": 108.48,
+      "end": 108.88,
+      "text": " Hã?",
+      "tokens": [
+        51610,
+        389,
+        1046,
+        30,
+        51619
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Hã?",
+          "start": 108.48,
+          "end": 108.88,
+          "probability": 0.5812972038984299
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 8390,
+      "start": 109.14,
+      "end": 110.6,
+      "text": " A ver se nos entendemos.",
+      "tokens": [
+        51644,
+        316,
+        1306,
+        369,
+        3269,
+        16612,
+        4485,
+        13,
+        51703
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " A",
+          "start": 109.14,
+          "end": 109.64,
+          "probability": 0.9993289709091187
+        },
+        {
+          "word": " ver",
+          "start": 109.64,
+          "end": 109.8,
+          "probability": 0.9997774958610535
+        },
+        {
+          "word": " se",
+          "start": 109.8,
+          "end": 109.86,
+          "probability": 0.9999833106994629
+        },
+        {
+          "word": " nos",
+          "start": 109.86,
+          "end": 110.02,
+          "probability": 0.9989006519317627
+        },
+        {
+          "word": " entendemos.",
+          "start": 110.02,
+          "end": 110.6,
+          "probability": 0.9960958957672119
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 8390,
+      "start": 110.66,
+      "end": 110.76,
+      "text": " Sim.",
+      "tokens": [
+        51705,
+        3998,
+        13,
+        51714
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " Sim.",
+          "start": 110.66,
+          "end": 110.76,
+          "probability": 0.9796802401542664
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 8390,
+      "start": 111.22,
+      "end": 112.64,
+      "text": " É mais...",
+      "tokens": [
+        51744,
+        4922,
+        2420,
+        485,
+        51804
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " É",
+          "start": 111.22,
+          "end": 111.6,
+          "probability": 0.999247670173645
+        },
+        {
+          "word": " mais...",
+          "start": 111.6,
+          "end": 112.64,
+          "probability": 0.9777311384677887
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 8390,
+      "start": 112.64,
+      "end": 113.18,
+      "text": " 4kg.",
+      "tokens": [
+        51804,
+        1017,
+        18302,
+        13,
+        51839
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.414662688525755,
+      "compression_ratio": 1.4952830188679245,
+      "no_speech_prob": 0.0008200412266887724,
+      "words": [
+        {
+          "word": " 4kg.",
+          "start": 112.64,
+          "end": 113.18,
+          "probability": 0.9905623495578766
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 11318,
+      "start": 113.18,
+      "end": 114.26,
+      "text": " Quatro quilos e meio.",
+      "tokens": [
+        50365,
+        2326,
+        14629,
+        421,
+        6136,
+        308,
+        17706,
+        13,
+        50433
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Quatro",
+          "start": 113.18,
+          "end": 113.18,
+          "probability": 0.5920924097299576
+        },
+        {
+          "word": " quilos",
+          "start": 113.18,
+          "end": 113.26,
+          "probability": 0.9510151743888855
+        },
+        {
+          "word": " e",
+          "start": 113.26,
+          "end": 113.74,
+          "probability": 0.7925201058387756
+        },
+        {
+          "word": " meio.",
+          "start": 113.74,
+          "end": 114.26,
+          "probability": 0.9586045145988464
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 11318,
+      "start": 114.64,
+      "end": 115.82,
+      "text": " Quatro quilos e meio, é tal.",
+      "tokens": [
+        50449,
+        2326,
+        14629,
+        421,
+        6136,
+        308,
+        17706,
+        11,
+        1136,
+        4023,
+        13,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Quatro",
+          "start": 114.64,
+          "end": 115.04,
+          "probability": 0.6743354350328445
+        },
+        {
+          "word": " quilos",
+          "start": 115.04,
+          "end": 115.28,
+          "probability": 0.9930499494075775
+        },
+        {
+          "word": " e",
+          "start": 115.28,
+          "end": 115.4,
+          "probability": 0.9974811673164368
+        },
+        {
+          "word": " meio,",
+          "start": 115.4,
+          "end": 115.52,
+          "probability": 0.9989643096923828
+        },
+        {
+          "word": " é",
+          "start": 115.58,
+          "end": 115.72,
+          "probability": 0.5158566832542419
+        },
+        {
+          "word": " tal.",
+          "start": 115.72,
+          "end": 115.82,
+          "probability": 0.7164809107780457
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 11318,
+      "start": 116.0,
+      "end": 118.86,
+      "text": " Nunca pode ser três e tal, que isso é menos de quatro e meio, Ana Bela.",
+      "tokens": [
+        50512,
+        23696,
+        496,
+        7468,
+        816,
+        20779,
+        308,
+        4023,
+        11,
+        631,
+        4616,
+        1136,
+        8902,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        50652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Nunca",
+          "start": 116.0,
+          "end": 116.38,
+          "probability": 0.5499138943850994
+        },
+        {
+          "word": " pode",
+          "start": 116.38,
+          "end": 116.58,
+          "probability": 0.9996141195297241
+        },
+        {
+          "word": " ser",
+          "start": 116.58,
+          "end": 116.74,
+          "probability": 0.9985295534133911
+        },
+        {
+          "word": " três",
+          "start": 116.74,
+          "end": 117.0,
+          "probability": 0.9244088530540466
+        },
+        {
+          "word": " e",
+          "start": 117.0,
+          "end": 117.1,
+          "probability": 0.9969647526741028
+        },
+        {
+          "word": " tal,",
+          "start": 117.1,
+          "end": 117.3,
+          "probability": 0.9993283748626709
+        },
+        {
+          "word": " que",
+          "start": 117.32,
+          "end": 117.44,
+          "probability": 0.8433139324188232
+        },
+        {
+          "word": " isso",
+          "start": 117.44,
+          "end": 117.54,
+          "probability": 0.9853142499923706
+        },
+        {
+          "word": " é",
+          "start": 117.54,
+          "end": 117.66,
+          "probability": 0.9998389482498169
+        },
+        {
+          "word": " menos",
+          "start": 117.66,
+          "end": 117.84,
+          "probability": 0.9998049139976501
+        },
+        {
+          "word": " de",
+          "start": 117.84,
+          "end": 117.98,
+          "probability": 0.9701446294784546
+        },
+        {
+          "word": " quatro",
+          "start": 117.98,
+          "end": 118.1,
+          "probability": 0.9859160780906677
+        },
+        {
+          "word": " e",
+          "start": 118.1,
+          "end": 118.28,
+          "probability": 0.9999090433120728
+        },
+        {
+          "word": " meio,",
+          "start": 118.28,
+          "end": 118.46,
+          "probability": 0.9999436140060425
+        },
+        {
+          "word": " Ana",
+          "start": 118.5,
+          "end": 118.6,
+          "probability": 0.7401171326637268
+        },
+        {
+          "word": " Bela.",
+          "start": 118.6,
+          "end": 118.86,
+          "probability": 0.9747424423694611
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 11318,
+      "start": 119.61999999999999,
+      "end": 120.42,
+      "text": " Três quilos...",
+      "tokens": [
+        50676,
+        1765,
+        11987,
+        421,
+        6136,
+        485,
+        50767
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Três",
+          "start": 119.61999999999999,
+          "end": 120.02,
+          "probability": 0.8942522704601288
+        },
+        {
+          "word": " quilos...",
+          "start": 120.02,
+          "end": 120.42,
+          "probability": 0.9255763093630472
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 11318,
+      "start": 121.88,
+      "end": 124.32,
+      "text": " Ana Bela, você é",
+      "tokens": [
+        50767,
+        21202,
+        363,
+        4053,
+        11,
+        2723,
+        1136,
+        50927
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Ana",
+          "start": 121.88,
+          "end": 122.28,
+          "probability": 0.9696556925773621
+        },
+        {
+          "word": " Bela,",
+          "start": 122.28,
+          "end": 122.68,
+          "probability": 0.9999768733978271
+        },
+        {
+          "word": " você",
+          "start": 122.78,
+          "end": 123.58,
+          "probability": 0.8910754919052124
+        },
+        {
+          "word": " é",
+          "start": 123.58,
+          "end": 124.32,
+          "probability": 0.9938672184944153
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 11318,
+      "start": 124.32,
+      "end": 125.18,
+      "text": " é muito...",
+      "tokens": [
+        50927,
+        1136,
+        4945,
+        485,
+        51027
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " é",
+          "start": 124.32,
+          "end": 124.38,
+          "probability": 2.4333098735951353e-07
+        },
+        {
+          "word": " muito...",
+          "start": 124.38,
+          "end": 125.18,
+          "probability": 0.13629191115614958
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 11318,
+      "start": 127.51999999999998,
+      "end": 130.06,
+      "text": " Ana Bela, é mais de quatro e meio.",
+      "tokens": [
+        51027,
+        21202,
+        363,
+        4053,
+        11,
+        1136,
+        2420,
+        368,
+        30583,
+        308,
+        17706,
+        13,
+        51217
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Ana",
+          "start": 127.51999999999998,
+          "end": 127.91999999999999,
+          "probability": 0.27141955494880676
+        },
+        {
+          "word": " Bela,",
+          "start": 127.91999999999999,
+          "end": 128.32,
+          "probability": 0.9991224706172943
+        },
+        {
+          "word": " é",
+          "start": 128.36,
+          "end": 128.58,
+          "probability": 0.9769977331161499
+        },
+        {
+          "word": " mais",
+          "start": 128.58,
+          "end": 129.12,
+          "probability": 0.9954236149787903
+        },
+        {
+          "word": " de",
+          "start": 129.12,
+          "end": 129.3,
+          "probability": 0.9935135841369629
+        },
+        {
+          "word": " quatro",
+          "start": 129.3,
+          "end": 129.54,
+          "probability": 0.9866098761558533
+        },
+        {
+          "word": " e",
+          "start": 129.54,
+          "end": 129.8,
+          "probability": 0.9966456294059753
+        },
+        {
+          "word": " meio.",
+          "start": 129.8,
+          "end": 130.06,
+          "probability": 0.9993539452552795
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "seek": 11318,
+      "start": 130.8,
+      "end": 131.52,
+      "text": " Três e tal.",
+      "tokens": [
+        51244,
+        1765,
+        11987,
+        308,
+        4023,
+        13,
+        51288
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Três",
+          "start": 130.8,
+          "end": 131.2,
+          "probability": 0.9941799342632294
+        },
+        {
+          "word": " e",
+          "start": 131.2,
+          "end": 131.28,
+          "probability": 0.9633907079696655
+        },
+        {
+          "word": " tal.",
+          "start": 131.28,
+          "end": 131.52,
+          "probability": 0.8659185171127319
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "seek": 11318,
+      "start": 131.92,
+      "end": 134.28,
+      "text": " Três quilos e tal é menos de quatro e meio.",
+      "tokens": [
+        51305,
+        1765,
+        11987,
+        421,
+        6136,
+        308,
+        4023,
+        1136,
+        8902,
+        368,
+        30583,
+        308,
+        17706,
+        13,
+        51428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Três",
+          "start": 131.92,
+          "end": 132.32,
+          "probability": 0.9753836393356323
+        },
+        {
+          "word": " quilos",
+          "start": 132.32,
+          "end": 132.72,
+          "probability": 0.7820539176464081
+        },
+        {
+          "word": " e",
+          "start": 132.72,
+          "end": 132.86,
+          "probability": 0.9887127876281738
+        },
+        {
+          "word": " tal",
+          "start": 132.86,
+          "end": 133.06,
+          "probability": 0.9994351267814636
+        },
+        {
+          "word": " é",
+          "start": 133.06,
+          "end": 133.28,
+          "probability": 0.6138060092926025
+        },
+        {
+          "word": " menos",
+          "start": 133.28,
+          "end": 133.6,
+          "probability": 0.9979429841041565
+        },
+        {
+          "word": " de",
+          "start": 133.6,
+          "end": 133.76,
+          "probability": 0.9470070004463196
+        },
+        {
+          "word": " quatro",
+          "start": 133.76,
+          "end": 133.94,
+          "probability": 0.9983367919921875
+        },
+        {
+          "word": " e",
+          "start": 133.94,
+          "end": 134.12,
+          "probability": 0.9983839988708496
+        },
+        {
+          "word": " meio.",
+          "start": 134.12,
+          "end": 134.28,
+          "probability": 0.9996191263198853
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "seek": 11318,
+      "start": 134.48,
+      "end": 135.92,
+      "text": " Tem que ser mais de quatro e meio.",
+      "tokens": [
+        51443,
+        8095,
+        631,
+        816,
+        2420,
+        368,
+        30583,
+        308,
+        17706,
+        13,
+        51509
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Tem",
+          "start": 134.48,
+          "end": 134.76,
+          "probability": 0.9859069585800171
+        },
+        {
+          "word": " que",
+          "start": 134.76,
+          "end": 134.88,
+          "probability": 0.9857872724533081
+        },
+        {
+          "word": " ser",
+          "start": 134.88,
+          "end": 135.0,
+          "probability": 0.9985398054122925
+        },
+        {
+          "word": " mais",
+          "start": 135.0,
+          "end": 135.28,
+          "probability": 0.9979217648506165
+        },
+        {
+          "word": " de",
+          "start": 135.28,
+          "end": 135.42,
+          "probability": 0.9746527075767517
+        },
+        {
+          "word": " quatro",
+          "start": 135.42,
+          "end": 135.56,
+          "probability": 0.9979593753814697
+        },
+        {
+          "word": " e",
+          "start": 135.56,
+          "end": 135.78,
+          "probability": 0.9987218976020813
+        },
+        {
+          "word": " meio.",
+          "start": 135.78,
+          "end": 135.92,
+          "probability": 0.9993764758110046
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "seek": 11318,
+      "start": 137.78,
+      "end": 138.58,
+      "text": " Três e...",
+      "tokens": [
+        51559,
+        1765,
+        11987,
+        308,
+        485,
+        51627
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Três",
+          "start": 137.78,
+          "end": 138.18,
+          "probability": 0.9088191092014313
+        },
+        {
+          "word": " e...",
+          "start": 138.18,
+          "end": 138.58,
+          "probability": 0.7888147234916687
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "seek": 11318,
+      "start": 140.9,
+      "end": 142.0,
+      "text": " Mais de quatro,",
+      "tokens": [
+        51691,
+        6313,
+        368,
+        30583,
+        11,
+        51811
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170065418366463,
+      "compression_ratio": 2.1788079470198674,
+      "no_speech_prob": 0.17261777818202972,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 140.9,
+          "end": 141.3,
+          "probability": 0.9675172567367554
+        },
+        {
+          "word": " de",
+          "start": 141.3,
+          "end": 141.62,
+          "probability": 0.997714638710022
+        },
+        {
+          "word": " quatro,",
+          "start": 141.62,
+          "end": 142.0,
+          "probability": 0.9986299276351929
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "seek": 14200,
+      "start": 142.0,
+      "end": 143.88,
+      "text": " mais para a frente. Três não pode ser,",
+      "tokens": [
+        50365,
+        2420,
+        1690,
+        257,
+        19873,
+        13,
+        1765,
+        11987,
+        2431,
+        7468,
+        816,
+        11,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " mais",
+          "start": 142.0,
+          "end": 142.24,
+          "probability": 0.12495562434196472
+        },
+        {
+          "word": " para",
+          "start": 142.24,
+          "end": 142.38,
+          "probability": 0.9377314448356628
+        },
+        {
+          "word": " a",
+          "start": 142.38,
+          "end": 142.52,
+          "probability": 0.8672524094581604
+        },
+        {
+          "word": " frente.",
+          "start": 142.52,
+          "end": 142.82,
+          "probability": 0.99962317943573
+        },
+        {
+          "word": " Três",
+          "start": 142.9,
+          "end": 143.18,
+          "probability": 0.8025885820388794
+        },
+        {
+          "word": " não",
+          "start": 143.18,
+          "end": 143.32,
+          "probability": 0.998469889163971
+        },
+        {
+          "word": " pode",
+          "start": 143.32,
+          "end": 143.6,
+          "probability": 0.9976359605789185
+        },
+        {
+          "word": " ser,",
+          "start": 143.6,
+          "end": 143.88,
+          "probability": 0.999140739440918
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "seek": 14200,
+      "start": 143.94,
+      "end": 144.68,
+      "text": " Ana Bela.",
+      "tokens": [
+        50471,
+        21202,
+        363,
+        4053,
+        13,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Ana",
+          "start": 143.94,
+          "end": 144.22,
+          "probability": 0.8948928117752075
+        },
+        {
+          "word": " Bela.",
+          "start": 144.22,
+          "end": 144.68,
+          "probability": 0.9721450507640839
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "seek": 14200,
+      "start": 145.74,
+      "end": 146.66,
+      "text": " Três não pode ser.",
+      "tokens": [
+        50552,
+        1765,
+        11987,
+        2431,
+        7468,
+        816,
+        13,
+        50605
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Três",
+          "start": 145.74,
+          "end": 146.16,
+          "probability": 0.8835475146770477
+        },
+        {
+          "word": " não",
+          "start": 146.16,
+          "end": 146.28,
+          "probability": 0.9999222755432129
+        },
+        {
+          "word": " pode",
+          "start": 146.28,
+          "end": 146.46,
+          "probability": 0.9994744658470154
+        },
+        {
+          "word": " ser.",
+          "start": 146.46,
+          "end": 146.66,
+          "probability": 0.9838795065879822
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "seek": 14200,
+      "start": 146.86,
+      "end": 149.16,
+      "text": " Não, vai me dar o fanico consigo, Ana Bela.",
+      "tokens": [
+        50615,
+        8010,
+        11,
+        4405,
+        385,
+        4072,
+        277,
+        3429,
+        2789,
+        43688,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        50722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Não,",
+          "start": 146.86,
+          "end": 147.28,
+          "probability": 0.973010778427124
+        },
+        {
+          "word": " vai",
+          "start": 147.32,
+          "end": 147.52,
+          "probability": 0.9981290698051453
+        },
+        {
+          "word": " me",
+          "start": 147.52,
+          "end": 147.64,
+          "probability": 0.6752672791481018
+        },
+        {
+          "word": " dar",
+          "start": 147.64,
+          "end": 147.8,
+          "probability": 0.9999247789382935
+        },
+        {
+          "word": " o",
+          "start": 147.8,
+          "end": 147.92,
+          "probability": 0.9895830154418945
+        },
+        {
+          "word": " fanico",
+          "start": 147.92,
+          "end": 148.24,
+          "probability": 0.8776559233665466
+        },
+        {
+          "word": " consigo,",
+          "start": 148.24,
+          "end": 148.52,
+          "probability": 0.8290437459945679
+        },
+        {
+          "word": " Ana",
+          "start": 148.82,
+          "end": 148.94,
+          "probability": 0.9990580677986145
+        },
+        {
+          "word": " Bela.",
+          "start": 148.94,
+          "end": 149.16,
+          "probability": 0.999961256980896
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "seek": 14200,
+      "start": 149.9,
+      "end": 150.32,
+      "text": " Dois...",
+      "tokens": [
+        50723,
+        1144,
+        271,
+        485,
+        50813
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Dois...",
+          "start": 149.9,
+          "end": 150.32,
+          "probability": 0.5092921356360117
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "seek": 14200,
+      "start": 152.16000000000003,
+      "end": 153.0,
+      "text": " Ana Bela,",
+      "tokens": [
+        50813,
+        21202,
+        363,
+        4053,
+        11,
+        50917
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Ana",
+          "start": 152.16000000000003,
+          "end": 152.58,
+          "probability": 0.9825603365898132
+        },
+        {
+          "word": " Bela,",
+          "start": 152.58,
+          "end": 153.0,
+          "probability": 0.9999927282333374
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "seek": 14200,
+      "start": 153.06,
+      "end": 155.26,
+      "text": " você está me a fazer transpirar,",
+      "tokens": [
+        50943,
+        2723,
+        3192,
+        385,
+        257,
+        6736,
+        7132,
+        347,
+        289,
+        11,
+        51032
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " você",
+          "start": 153.06,
+          "end": 153.82,
+          "probability": 0.9791871309280396
+        },
+        {
+          "word": " está",
+          "start": 153.82,
+          "end": 154.2,
+          "probability": 0.9959505796432495
+        },
+        {
+          "word": " me",
+          "start": 154.2,
+          "end": 154.34,
+          "probability": 0.5998020172119141
+        },
+        {
+          "word": " a",
+          "start": 154.34,
+          "end": 154.46,
+          "probability": 0.682770311832428
+        },
+        {
+          "word": " fazer",
+          "start": 154.46,
+          "end": 154.62,
+          "probability": 0.9988099336624146
+        },
+        {
+          "word": " transpirar,",
+          "start": 154.62,
+          "end": 155.26,
+          "probability": 0.9971555868784586
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "seek": 14200,
+      "start": 155.3,
+      "end": 155.64,
+      "text": " a sério.",
+      "tokens": [
+        51037,
+        257,
+        7910,
+        6584,
+        13,
+        51052
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " a",
+          "start": 155.3,
+          "end": 155.42,
+          "probability": 0.8400331735610962
+        },
+        {
+          "word": " sério.",
+          "start": 155.42,
+          "end": 155.64,
+          "probability": 0.9959722459316254
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "seek": 14200,
+      "start": 156.14000000000001,
+      "end": 158.52,
+      "text": " É mais de quatro e meio, Ana Bela.",
+      "tokens": [
+        51093,
+        4922,
+        2420,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51196
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " É",
+          "start": 156.14000000000001,
+          "end": 156.56,
+          "probability": 0.9974570870399475
+        },
+        {
+          "word": " mais",
+          "start": 156.56,
+          "end": 156.82,
+          "probability": 0.9896388053894043
+        },
+        {
+          "word": " de",
+          "start": 156.82,
+          "end": 157.14,
+          "probability": 0.996272087097168
+        },
+        {
+          "word": " quatro",
+          "start": 157.14,
+          "end": 157.4,
+          "probability": 0.868980884552002
+        },
+        {
+          "word": " e",
+          "start": 157.4,
+          "end": 157.68,
+          "probability": 0.9996849298477173
+        },
+        {
+          "word": " meio,",
+          "start": 157.68,
+          "end": 157.92,
+          "probability": 0.9965969920158386
+        },
+        {
+          "word": " Ana",
+          "start": 158.02,
+          "end": 158.2,
+          "probability": 0.9982352256774902
+        },
+        {
+          "word": " Bela.",
+          "start": 158.2,
+          "end": 158.52,
+          "probability": 0.9999935626983643
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "seek": 14200,
+      "start": 158.72,
+      "end": 159.4,
+      "text": " Mais de quatro e meio.",
+      "tokens": [
+        51203,
+        6313,
+        368,
+        30583,
+        308,
+        17706,
+        13,
+        51238
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 158.72,
+          "end": 158.88,
+          "probability": 0.9149293303489685
+        },
+        {
+          "word": " de",
+          "start": 158.88,
+          "end": 158.96,
+          "probability": 0.6411906480789185
+        },
+        {
+          "word": " quatro",
+          "start": 158.96,
+          "end": 159.08,
+          "probability": 0.9991636276245117
+        },
+        {
+          "word": " e",
+          "start": 159.08,
+          "end": 159.26,
+          "probability": 0.99988853931427
+        },
+        {
+          "word": " meio.",
+          "start": 159.26,
+          "end": 159.4,
+          "probability": 0.9998726844787598
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "seek": 14200,
+      "start": 159.88000000000002,
+      "end": 161.62,
+      "text": " Tem que ser três ou dois?",
+      "tokens": [
+        51266,
+        8095,
+        631,
+        816,
+        20779,
+        2820,
+        11854,
+        30,
+        51356
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Tem",
+          "start": 159.88000000000002,
+          "end": 160.3,
+          "probability": 0.002185931894928217
+        },
+        {
+          "word": " que",
+          "start": 160.3,
+          "end": 160.62,
+          "probability": 0.9833753705024719
+        },
+        {
+          "word": " ser",
+          "start": 160.62,
+          "end": 160.76,
+          "probability": 0.9853928685188293
+        },
+        {
+          "word": " três",
+          "start": 160.76,
+          "end": 161.0,
+          "probability": 0.9973760843276978
+        },
+        {
+          "word": " ou",
+          "start": 161.0,
+          "end": 161.36,
+          "probability": 0.9996734857559204
+        },
+        {
+          "word": " dois?",
+          "start": 161.36,
+          "end": 161.62,
+          "probability": 0.9996881484985352
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "seek": 14200,
+      "start": 161.92,
+      "end": 164.98,
+      "text": " Mais de três e mais de dois e mais de quatro, mulher.",
+      "tokens": [
+        51365,
+        6313,
+        368,
+        20779,
+        308,
+        2420,
+        368,
+        11854,
+        308,
+        2420,
+        368,
+        30583,
+        11,
+        33211,
+        13,
+        51519
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 161.92,
+          "end": 162.32,
+          "probability": 0.9440598487854004
+        },
+        {
+          "word": " de",
+          "start": 162.32,
+          "end": 162.46,
+          "probability": 0.9906045794487
+        },
+        {
+          "word": " três",
+          "start": 162.46,
+          "end": 162.84,
+          "probability": 0.9992135763168335
+        },
+        {
+          "word": " e",
+          "start": 162.84,
+          "end": 163.08,
+          "probability": 0.8004432320594788
+        },
+        {
+          "word": " mais",
+          "start": 163.08,
+          "end": 163.26,
+          "probability": 0.9999433755874634
+        },
+        {
+          "word": " de",
+          "start": 163.26,
+          "end": 163.46,
+          "probability": 0.9996737241744995
+        },
+        {
+          "word": " dois",
+          "start": 163.46,
+          "end": 163.64,
+          "probability": 0.9997983574867249
+        },
+        {
+          "word": " e",
+          "start": 163.64,
+          "end": 163.88,
+          "probability": 0.9820475578308105
+        },
+        {
+          "word": " mais",
+          "start": 163.88,
+          "end": 164.02,
+          "probability": 0.999870777130127
+        },
+        {
+          "word": " de",
+          "start": 164.02,
+          "end": 164.18,
+          "probability": 0.9999455213546753
+        },
+        {
+          "word": " quatro,",
+          "start": 164.18,
+          "end": 164.6,
+          "probability": 0.9999582767486572
+        },
+        {
+          "word": " mulher.",
+          "start": 164.68,
+          "end": 164.98,
+          "probability": 0.9945489764213562
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "seek": 14200,
+      "start": 165.92000000000002,
+      "end": 166.34,
+      "text": " Três...",
+      "tokens": [
+        51530,
+        1765,
+        11987,
+        485,
+        51602
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Três...",
+          "start": 165.92000000000002,
+          "end": 166.34,
+          "probability": 0.942222535610199
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "seek": 14200,
+      "start": 167.94000000000003,
+      "end": 169.68,
+      "text": " Mais de quatro e meio, Ana Bela.",
+      "tokens": [
+        51602,
+        6313,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 167.94000000000003,
+          "end": 168.36,
+          "probability": 0.9606633186340332
+        },
+        {
+          "word": " de",
+          "start": 168.36,
+          "end": 168.5,
+          "probability": 0.9998273849487305
+        },
+        {
+          "word": " quatro",
+          "start": 168.5,
+          "end": 168.62,
+          "probability": 0.9998824596405029
+        },
+        {
+          "word": " e",
+          "start": 168.62,
+          "end": 168.92,
+          "probability": 0.9999332427978516
+        },
+        {
+          "word": " meio,",
+          "start": 168.92,
+          "end": 169.14,
+          "probability": 0.9999420642852783
+        },
+        {
+          "word": " Ana",
+          "start": 169.22,
+          "end": 169.38,
+          "probability": 0.9977548718452454
+        },
+        {
+          "word": " Bela.",
+          "start": 169.38,
+          "end": 169.68,
+          "probability": 0.9999939799308777
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "seek": 14200,
+      "start": 169.96,
+      "end": 171.36,
+      "text": " Estou-me a ficar, Ana Bela.",
+      "tokens": [
+        51775,
+        4410,
+        263,
+        12,
+        1398,
+        257,
+        13646,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28423419414750684,
+      "compression_ratio": 1.9024390243902438,
+      "no_speech_prob": 5.6510529248043895e-05,
+      "words": [
+        {
+          "word": " Estou",
+          "start": 169.96,
+          "end": 170.38,
+          "probability": 0.9210851192474365
+        },
+        {
+          "word": "-me",
+          "start": 170.38,
+          "end": 170.4,
+          "probability": 0.9934569895267487
+        },
+        {
+          "word": " a",
+          "start": 170.4,
+          "end": 170.5,
+          "probability": 0.9998414516448975
+        },
+        {
+          "word": " ficar,",
+          "start": 170.5,
+          "end": 170.72,
+          "probability": 0.9992777705192566
+        },
+        {
+          "word": " Ana",
+          "start": 170.94,
+          "end": 171.08,
+          "probability": 0.9998891353607178
+        },
+        {
+          "word": " Bela.",
+          "start": 171.08,
+          "end": 171.36,
+          "probability": 0.9999954104423523
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "seek": 17136,
+      "start": 171.36,
+      "end": 172.34,
+      "text": " Tu dês...",
+      "tokens": [
+        50365,
+        7836,
+        274,
+        11987,
+        485,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tu",
+          "start": 171.36,
+          "end": 171.92,
+          "probability": 0.19721092283725739
+        },
+        {
+          "word": " dês...",
+          "start": 171.92,
+          "end": 172.34,
+          "probability": 0.7419230143229166
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "seek": 17136,
+      "start": 172.34,
+      "end": 173.22,
+      "text": " Tenha calma.",
+      "tokens": [
+        50415,
+        9380,
+        1641,
+        2104,
+        1696,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tenha",
+          "start": 172.34,
+          "end": 172.84,
+          "probability": 0.7145840227603912
+        },
+        {
+          "word": " calma.",
+          "start": 172.84,
+          "end": 173.22,
+          "probability": 0.9998157620429993
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "seek": 17136,
+      "start": 173.94,
+      "end": 175.1,
+      "text": " Estou-me a ficar consigo.",
+      "tokens": [
+        50465,
+        4410,
+        263,
+        12,
+        1398,
+        257,
+        13646,
+        43688,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Estou",
+          "start": 173.94,
+          "end": 174.38,
+          "probability": 0.9299069941043854
+        },
+        {
+          "word": "-me",
+          "start": 174.38,
+          "end": 174.46,
+          "probability": 0.9828268885612488
+        },
+        {
+          "word": " a",
+          "start": 174.46,
+          "end": 174.56,
+          "probability": 0.9995286464691162
+        },
+        {
+          "word": " ficar",
+          "start": 174.56,
+          "end": 174.76,
+          "probability": 0.9998466968536377
+        },
+        {
+          "word": " consigo.",
+          "start": 174.76,
+          "end": 175.1,
+          "probability": 0.9880316257476807
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "seek": 17136,
+      "start": 175.54,
+      "end": 177.28,
+      "text": " Mais de quatro e meio, Ana Bela.",
+      "tokens": [
+        50565,
+        6313,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 175.54,
+          "end": 175.98,
+          "probability": 0.9964739680290222
+        },
+        {
+          "word": " de",
+          "start": 175.98,
+          "end": 176.14,
+          "probability": 0.9908327460289001
+        },
+        {
+          "word": " quatro",
+          "start": 176.14,
+          "end": 176.34,
+          "probability": 0.26344621181488037
+        },
+        {
+          "word": " e",
+          "start": 176.34,
+          "end": 176.56,
+          "probability": 0.9997482895851135
+        },
+        {
+          "word": " meio,",
+          "start": 176.56,
+          "end": 176.8,
+          "probability": 0.9892627596855164
+        },
+        {
+          "word": " Ana",
+          "start": 176.9,
+          "end": 177.02,
+          "probability": 0.7039111852645874
+        },
+        {
+          "word": " Bela.",
+          "start": 177.02,
+          "end": 177.28,
+          "probability": 0.9791381657123566
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "seek": 17136,
+      "start": 178.22,
+      "end": 180.04,
+      "text": " Tu dês cento e cinquenta, então.",
+      "tokens": [
+        50715,
+        7836,
+        274,
+        11987,
+        1489,
+        78,
+        308,
+        6539,
+        358,
+        8938,
+        11,
+        9071,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tu",
+          "start": 178.22,
+          "end": 178.66,
+          "probability": 0.998418927192688
+        },
+        {
+          "word": " dês",
+          "start": 178.66,
+          "end": 178.88,
+          "probability": 0.9979720711708069
+        },
+        {
+          "word": " cento",
+          "start": 178.88,
+          "end": 179.18,
+          "probability": 0.8672642707824707
+        },
+        {
+          "word": " e",
+          "start": 179.18,
+          "end": 179.24,
+          "probability": 0.9999064207077026
+        },
+        {
+          "word": " cinquenta,",
+          "start": 179.24,
+          "end": 179.78,
+          "probability": 0.9993053674697876
+        },
+        {
+          "word": " então.",
+          "start": 179.82,
+          "end": 180.04,
+          "probability": 0.9081777334213257
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "seek": 17136,
+      "start": 182.78,
+      "end": 183.8,
+      "text": " Mais para a frente.",
+      "tokens": [
+        50915,
+        6313,
+        1690,
+        257,
+        19873,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 182.78,
+          "end": 183.22,
+          "probability": 0.9955880641937256
+        },
+        {
+          "word": " para",
+          "start": 183.22,
+          "end": 183.36,
+          "probability": 0.9504616260528564
+        },
+        {
+          "word": " a",
+          "start": 183.36,
+          "end": 183.5,
+          "probability": 0.9769101142883301
+        },
+        {
+          "word": " frente.",
+          "start": 183.5,
+          "end": 183.8,
+          "probability": 0.9999117851257324
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "seek": 17136,
+      "start": 184.12,
+      "end": 185.22,
+      "text": " Tu dês cento e setenta.",
+      "tokens": [
+        51015,
+        7836,
+        274,
+        11987,
+        1489,
+        78,
+        308,
+        992,
+        8938,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tu",
+          "start": 184.12,
+          "end": 184.22,
+          "probability": 0.9982367753982544
+        },
+        {
+          "word": " dês",
+          "start": 184.22,
+          "end": 184.44,
+          "probability": 0.9994777739048004
+        },
+        {
+          "word": " cento",
+          "start": 184.44,
+          "end": 184.78,
+          "probability": 0.9996048510074615
+        },
+        {
+          "word": " e",
+          "start": 184.78,
+          "end": 184.78,
+          "probability": 0.99998939037323
+        },
+        {
+          "word": " setenta.",
+          "start": 184.78,
+          "end": 185.22,
+          "probability": 0.9929555356502533
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "seek": 17136,
+      "start": 186.42000000000002,
+      "end": 187.9,
+      "text": " Mais para a frente, Ana Bela.",
+      "tokens": [
+        51115,
+        6313,
+        1690,
+        257,
+        19873,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 186.42000000000002,
+          "end": 186.86,
+          "probability": 0.9991427659988403
+        },
+        {
+          "word": " para",
+          "start": 186.86,
+          "end": 186.98,
+          "probability": 0.9999731779098511
+        },
+        {
+          "word": " a",
+          "start": 186.98,
+          "end": 187.1,
+          "probability": 0.9998581409454346
+        },
+        {
+          "word": " frente,",
+          "start": 187.1,
+          "end": 187.42,
+          "probability": 0.9999957084655762
+        },
+        {
+          "word": " Ana",
+          "start": 187.42,
+          "end": 187.6,
+          "probability": 0.9990127086639404
+        },
+        {
+          "word": " Bela.",
+          "start": 187.6,
+          "end": 187.9,
+          "probability": 0.9999784827232361
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "seek": 17136,
+      "start": 187.9,
+      "end": 188.56,
+      "text": " Tu dês cento e noventa.",
+      "tokens": [
+        51165,
+        7836,
+        274,
+        11987,
+        1489,
+        78,
+        308,
+        572,
+        2475,
+        64,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tu",
+          "start": 187.9,
+          "end": 187.92,
+          "probability": 0.9954656958580017
+        },
+        {
+          "word": " dês",
+          "start": 187.92,
+          "end": 187.92,
+          "probability": 0.9996461868286133
+        },
+        {
+          "word": " cento",
+          "start": 187.92,
+          "end": 188.02,
+          "probability": 0.9993875026702881
+        },
+        {
+          "word": " e",
+          "start": 188.02,
+          "end": 188.14,
+          "probability": 0.9999809265136719
+        },
+        {
+          "word": " noventa.",
+          "start": 188.14,
+          "end": 188.56,
+          "probability": 0.9995367725690206
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "seek": 17136,
+      "start": 188.78,
+      "end": 190.72,
+      "text": " Não, mais de quatro e meio, Ana Bela.",
+      "tokens": [
+        51215,
+        8010,
+        11,
+        2420,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Não,",
+          "start": 188.78,
+          "end": 189.18,
+          "probability": 0.9985477328300476
+        },
+        {
+          "word": " mais",
+          "start": 189.2,
+          "end": 189.46,
+          "probability": 0.9998526573181152
+        },
+        {
+          "word": " de",
+          "start": 189.46,
+          "end": 189.6,
+          "probability": 0.9997231364250183
+        },
+        {
+          "word": " quatro",
+          "start": 189.6,
+          "end": 189.74,
+          "probability": 0.9999550580978394
+        },
+        {
+          "word": " e",
+          "start": 189.74,
+          "end": 189.94,
+          "probability": 0.9999732971191406
+        },
+        {
+          "word": " meio,",
+          "start": 189.94,
+          "end": 190.16,
+          "probability": 0.9999051094055176
+        },
+        {
+          "word": " Ana",
+          "start": 190.26,
+          "end": 190.4,
+          "probability": 0.9999078512191772
+        },
+        {
+          "word": " Bela.",
+          "start": 190.4,
+          "end": 190.72,
+          "probability": 0.9999921321868896
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "seek": 17136,
+      "start": 191.18,
+      "end": 193.22,
+      "text": " Vai-me dar o treco consigo, Ana Bela.",
+      "tokens": [
+        51315,
+        24206,
+        12,
+        1398,
+        4072,
+        277,
+        2192,
+        1291,
+        43688,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Vai",
+          "start": 191.18,
+          "end": 191.62,
+          "probability": 0.9682708978652954
+        },
+        {
+          "word": "-me",
+          "start": 191.62,
+          "end": 191.7,
+          "probability": 0.9116538465023041
+        },
+        {
+          "word": " dar",
+          "start": 191.7,
+          "end": 191.88,
+          "probability": 0.9979056119918823
+        },
+        {
+          "word": " o",
+          "start": 191.88,
+          "end": 192.0,
+          "probability": 0.9779453873634338
+        },
+        {
+          "word": " treco",
+          "start": 192.0,
+          "end": 192.24,
+          "probability": 0.9949691891670227
+        },
+        {
+          "word": " consigo,",
+          "start": 192.24,
+          "end": 192.46,
+          "probability": 0.9944157600402832
+        },
+        {
+          "word": " Ana",
+          "start": 192.78,
+          "end": 192.88,
+          "probability": 0.9998553991317749
+        },
+        {
+          "word": " Bela.",
+          "start": 192.88,
+          "end": 193.22,
+          "probability": 0.9999905228614807
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "seek": 17136,
+      "start": 193.46,
+      "end": 194.04,
+      "text": " Tu dês...",
+      "tokens": [
+        51465,
+        7836,
+        274,
+        11987,
+        485,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tu",
+          "start": 193.46,
+          "end": 193.58,
+          "probability": 0.2029026448726654
+        },
+        {
+          "word": " dês...",
+          "start": 193.58,
+          "end": 194.04,
+          "probability": 0.9905523459116617
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "seek": 17136,
+      "start": 194.04,
+      "end": 196.08,
+      "text": " É mais de quatro e meio, Ana Bela.",
+      "tokens": [
+        51515,
+        4922,
+        2420,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " É",
+          "start": 194.04,
+          "end": 194.52,
+          "probability": 0.9943390488624573
+        },
+        {
+          "word": " mais",
+          "start": 194.52,
+          "end": 194.76,
+          "probability": 0.9998297691345215
+        },
+        {
+          "word": " de",
+          "start": 194.76,
+          "end": 194.94,
+          "probability": 0.9933244585990906
+        },
+        {
+          "word": " quatro",
+          "start": 194.94,
+          "end": 195.12,
+          "probability": 0.999961256980896
+        },
+        {
+          "word": " e",
+          "start": 195.12,
+          "end": 195.36,
+          "probability": 0.9999827146530151
+        },
+        {
+          "word": " meio,",
+          "start": 195.36,
+          "end": 195.58,
+          "probability": 0.9999583959579468
+        },
+        {
+          "word": " Ana",
+          "start": 195.64,
+          "end": 195.78,
+          "probability": 0.9998782873153687
+        },
+        {
+          "word": " Bela.",
+          "start": 195.78,
+          "end": 196.08,
+          "probability": 0.9999953508377075
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "seek": 17136,
+      "start": 196.08,
+      "end": 197.46,
+      "text": " Tu dês cinco centos e cinquenta.",
+      "tokens": [
+        51615,
+        7836,
+        274,
+        11987,
+        21350,
+        1489,
+        329,
+        308,
+        6539,
+        358,
+        8938,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Tu",
+          "start": 196.08,
+          "end": 196.14,
+          "probability": 0.9960423707962036
+        },
+        {
+          "word": " dês",
+          "start": 196.14,
+          "end": 196.26,
+          "probability": 0.99684077501297
+        },
+        {
+          "word": " cinco",
+          "start": 196.26,
+          "end": 196.42,
+          "probability": 0.3831779956817627
+        },
+        {
+          "word": " centos",
+          "start": 196.42,
+          "end": 196.84,
+          "probability": 0.5292664468288422
+        },
+        {
+          "word": " e",
+          "start": 196.84,
+          "end": 196.84,
+          "probability": 0.9999631643295288
+        },
+        {
+          "word": " cinquenta.",
+          "start": 196.84,
+          "end": 197.46,
+          "probability": 0.9990434447924296
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "seek": 17136,
+      "start": 199.28,
+      "end": 200.02,
+      "text": " Ana Bela.",
+      "tokens": [
+        51765,
+        21202,
+        363,
+        4053,
+        13,
+        51790
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Ana",
+          "start": 199.28,
+          "end": 199.72,
+          "probability": 0.9898884892463684
+        },
+        {
+          "word": " Bela.",
+          "start": 199.72,
+          "end": 200.02,
+          "probability": 0.9999900460243225
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "seek": 17136,
+      "start": 200.22,
+      "end": 200.44,
+      "text": " Diga.",
+      "tokens": [
+        51790,
+        413,
+        9900,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23964742334877573,
+      "compression_ratio": 2.160220994475138,
+      "no_speech_prob": 0.004023243207484484,
+      "words": [
+        {
+          "word": " Diga.",
+          "start": 200.22,
+          "end": 200.44,
+          "probability": 0.938579648733139
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "seek": 20044,
+      "start": 203.66000000000003,
+      "end": 204.08,
+      "text": " Diga.",
+      "tokens": [
+        50365,
+        413,
+        9900,
+        13,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Diga.",
+          "start": 203.66000000000003,
+          "end": 204.08,
+          "probability": 0.4991631880402565
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "seek": 20044,
+      "start": 204.08,
+      "end": 205.56,
+      "text": " Mais de quatro quilos e meio.",
+      "tokens": [
+        50415,
+        6313,
+        368,
+        30583,
+        421,
+        6136,
+        308,
+        17706,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 204.08,
+          "end": 204.14,
+          "probability": 0.8322783708572388
+        },
+        {
+          "word": " de",
+          "start": 204.14,
+          "end": 204.56,
+          "probability": 0.9991844296455383
+        },
+        {
+          "word": " quatro",
+          "start": 204.56,
+          "end": 204.82,
+          "probability": 0.3419850468635559
+        },
+        {
+          "word": " quilos",
+          "start": 204.82,
+          "end": 205.24,
+          "probability": 0.9953494966030121
+        },
+        {
+          "word": " e",
+          "start": 205.24,
+          "end": 205.38,
+          "probability": 0.9999071359634399
+        },
+        {
+          "word": " meio.",
+          "start": 205.38,
+          "end": 205.56,
+          "probability": 0.996182382106781
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "seek": 20044,
+      "start": 205.9,
+      "end": 206.98,
+      "text": " Três cento e tal.",
+      "tokens": [
+        50615,
+        1765,
+        11987,
+        1489,
+        78,
+        308,
+        4023,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Três",
+          "start": 205.9,
+          "end": 206.32,
+          "probability": 0.9935174584388733
+        },
+        {
+          "word": " cento",
+          "start": 206.32,
+          "end": 206.76,
+          "probability": 0.7465369552373886
+        },
+        {
+          "word": " e",
+          "start": 206.76,
+          "end": 206.76,
+          "probability": 0.99937903881073
+        },
+        {
+          "word": " tal.",
+          "start": 206.76,
+          "end": 206.98,
+          "probability": 0.999931812286377
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "seek": 20044,
+      "start": 207.02,
+      "end": 208.08,
+      "text": " É menos de quatro e meio.",
+      "tokens": [
+        50665,
+        4922,
+        8902,
+        368,
+        30583,
+        308,
+        17706,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " É",
+          "start": 207.02,
+          "end": 207.18,
+          "probability": 0.9976128339767456
+        },
+        {
+          "word": " menos",
+          "start": 207.18,
+          "end": 207.44,
+          "probability": 0.9999278783798218
+        },
+        {
+          "word": " de",
+          "start": 207.44,
+          "end": 207.56,
+          "probability": 0.6117193102836609
+        },
+        {
+          "word": " quatro",
+          "start": 207.56,
+          "end": 207.7,
+          "probability": 0.9995720982551575
+        },
+        {
+          "word": " e",
+          "start": 207.7,
+          "end": 207.9,
+          "probability": 0.999964714050293
+        },
+        {
+          "word": " meio.",
+          "start": 207.9,
+          "end": 208.08,
+          "probability": 0.9999607801437378
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "seek": 20044,
+      "start": 208.18,
+      "end": 209.22,
+      "text": " Para cima de quatro e meio.",
+      "tokens": [
+        50715,
+        11107,
+        22586,
+        368,
+        30583,
+        308,
+        17706,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Para",
+          "start": 208.18,
+          "end": 208.3,
+          "probability": 0.9784411191940308
+        },
+        {
+          "word": " cima",
+          "start": 208.3,
+          "end": 208.64,
+          "probability": 0.9996479749679565
+        },
+        {
+          "word": " de",
+          "start": 208.64,
+          "end": 208.78,
+          "probability": 0.9996076226234436
+        },
+        {
+          "word": " quatro",
+          "start": 208.78,
+          "end": 208.9,
+          "probability": 0.9999672174453735
+        },
+        {
+          "word": " e",
+          "start": 208.9,
+          "end": 209.12,
+          "probability": 0.9999681711196899
+        },
+        {
+          "word": " meio.",
+          "start": 209.12,
+          "end": 209.22,
+          "probability": 0.9999715089797974
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "seek": 20044,
+      "start": 209.26,
+      "end": 211.22,
+      "text": " Diga quatro quinhentos e qualquer coisa, mulher.",
+      "tokens": [
+        50815,
+        413,
+        9900,
+        30583,
+        421,
+        10085,
+        317,
+        329,
+        308,
+        20437,
+        9614,
+        11,
+        33211,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Diga",
+          "start": 209.26,
+          "end": 209.48,
+          "probability": 0.9994517862796783
+        },
+        {
+          "word": " quatro",
+          "start": 209.48,
+          "end": 209.7,
+          "probability": 0.8739068508148193
+        },
+        {
+          "word": " quinhentos",
+          "start": 209.7,
+          "end": 210.32,
+          "probability": 0.9676992297172546
+        },
+        {
+          "word": " e",
+          "start": 210.32,
+          "end": 210.36,
+          "probability": 0.996623158454895
+        },
+        {
+          "word": " qualquer",
+          "start": 210.36,
+          "end": 210.56,
+          "probability": 0.9995817542076111
+        },
+        {
+          "word": " coisa,",
+          "start": 210.56,
+          "end": 211.0,
+          "probability": 0.9999799728393555
+        },
+        {
+          "word": " mulher.",
+          "start": 211.02,
+          "end": 211.22,
+          "probability": 0.9994878768920898
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "seek": 20044,
+      "start": 211.44,
+      "end": 213.78,
+      "text": " Quatro quilos e vinte.",
+      "tokens": [
+        50915,
+        2326,
+        14629,
+        421,
+        6136,
+        308,
+        371,
+        12401,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Quatro",
+          "start": 211.44,
+          "end": 211.56,
+          "probability": 0.9985917806625366
+        },
+        {
+          "word": " quilos",
+          "start": 211.56,
+          "end": 212.02,
+          "probability": 0.998325377702713
+        },
+        {
+          "word": " e",
+          "start": 212.02,
+          "end": 212.32,
+          "probability": 0.9801743030548096
+        },
+        {
+          "word": " vinte.",
+          "start": 212.32,
+          "end": 213.78,
+          "probability": 0.9939033687114716
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "seek": 20044,
+      "start": 215.60000000000002,
+      "end": 217.38,
+      "text": " Mais de quatro e meio, Ana Bela.",
+      "tokens": [
+        51115,
+        6313,
+        368,
+        30583,
+        308,
+        17706,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Mais",
+          "start": 215.60000000000002,
+          "end": 216.02,
+          "probability": 0.997796893119812
+        },
+        {
+          "word": " de",
+          "start": 216.02,
+          "end": 216.24,
+          "probability": 0.9999880790710449
+        },
+        {
+          "word": " quatro",
+          "start": 216.24,
+          "end": 216.46,
+          "probability": 0.9999287128448486
+        },
+        {
+          "word": " e",
+          "start": 216.46,
+          "end": 216.68,
+          "probability": 0.9999752044677734
+        },
+        {
+          "word": " meio,",
+          "start": 216.68,
+          "end": 216.92,
+          "probability": 0.9999830722808838
+        },
+        {
+          "word": " Ana",
+          "start": 216.96,
+          "end": 217.08,
+          "probability": 0.9526982307434082
+        },
+        {
+          "word": " Bela.",
+          "start": 217.08,
+          "end": 217.38,
+          "probability": 0.9583716988563538
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "seek": 20044,
+      "start": 218.66000000000003,
+      "end": 219.36,
+      "text": " Ai, Jesus.",
+      "tokens": [
+        51265,
+        16993,
+        11,
+        2705,
+        13,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Ai,",
+          "start": 218.66000000000003,
+          "end": 219.08,
+          "probability": 0.9854009747505188
+        },
+        {
+          "word": " Jesus.",
+          "start": 219.1,
+          "end": 219.36,
+          "probability": 0.9782577157020569
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "seek": 20044,
+      "start": 219.38,
+      "end": 220.76,
+      "text": " Ai, Jesus, para o que lhe deu hoje.",
+      "tokens": [
+        51315,
+        16993,
+        11,
+        2705,
+        11,
+        1690,
+        277,
+        631,
+        287,
+        675,
+        25661,
+        13458,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Ai,",
+          "start": 219.38,
+          "end": 219.5,
+          "probability": 0.9039043188095093
+        },
+        {
+          "word": " Jesus,",
+          "start": 219.56,
+          "end": 219.78,
+          "probability": 0.9968962669372559
+        },
+        {
+          "word": " para",
+          "start": 219.94,
+          "end": 220.16,
+          "probability": 0.9934499859809875
+        },
+        {
+          "word": " o",
+          "start": 220.16,
+          "end": 220.2,
+          "probability": 0.9993113279342651
+        },
+        {
+          "word": " que",
+          "start": 220.2,
+          "end": 220.3,
+          "probability": 0.9999383687973022
+        },
+        {
+          "word": " lhe",
+          "start": 220.3,
+          "end": 220.4,
+          "probability": 0.9994052946567535
+        },
+        {
+          "word": " deu",
+          "start": 220.4,
+          "end": 220.52,
+          "probability": 0.9803106188774109
+        },
+        {
+          "word": " hoje.",
+          "start": 220.52,
+          "end": 220.76,
+          "probability": 0.9999066591262817
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "seek": 20044,
+      "start": 222.14000000000001,
+      "end": 222.56,
+      "text": " Quatro...",
+      "tokens": [
+        51415,
+        2326,
+        14629,
+        485,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Quatro...",
+          "start": 222.14000000000001,
+          "end": 222.56,
+          "probability": 0.9499210119247437
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "seek": 20044,
+      "start": 222.56,
+      "end": 224.56,
+      "text": " Quatro quinhentos e qualquer coisa. Diga.",
+      "tokens": [
+        51465,
+        2326,
+        14629,
+        421,
+        10085,
+        317,
+        329,
+        308,
+        20437,
+        9614,
+        13,
+        413,
+        9900,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Quatro",
+          "start": 222.56,
+          "end": 223.16,
+          "probability": 0.9993854463100433
+        },
+        {
+          "word": " quinhentos",
+          "start": 223.16,
+          "end": 223.66,
+          "probability": 0.9998290240764618
+        },
+        {
+          "word": " e",
+          "start": 223.66,
+          "end": 223.74,
+          "probability": 0.999895453453064
+        },
+        {
+          "word": " qualquer",
+          "start": 223.74,
+          "end": 223.94,
+          "probability": 0.9999617338180542
+        },
+        {
+          "word": " coisa.",
+          "start": 223.94,
+          "end": 224.34,
+          "probability": 0.9999903440475464
+        },
+        {
+          "word": " Diga.",
+          "start": 224.38,
+          "end": 224.56,
+          "probability": 0.9949503839015961
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "seek": 20044,
+      "start": 224.58,
+      "end": 226.78,
+      "text": " Quatro quinhentos e vinte. Pronto.",
+      "tokens": [
+        51565,
+        2326,
+        14629,
+        421,
+        10085,
+        317,
+        329,
+        308,
+        371,
+        12401,
+        13,
+        2114,
+        7556,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15055363318499396,
+      "compression_ratio": 1.9885714285714287,
+      "no_speech_prob": 0.041266631335020065,
+      "words": [
+        {
+          "word": " Quatro",
+          "start": 224.58,
+          "end": 224.82,
+          "probability": 0.9984735548496246
+        },
+        {
+          "word": " quinhentos",
+          "start": 224.82,
+          "end": 225.1,
+          "probability": 0.9985887408256531
+        },
+        {
+          "word": " e",
+          "start": 225.1,
+          "end": 225.18,
+          "probability": 0.9998873472213745
+        },
+        {
+          "word": " vinte.",
+          "start": 225.18,
+          "end": 226.44,
+          "probability": 0.8845094740390778
+        },
+        {
+          "word": " Pronto.",
+          "start": 226.48,
+          "end": 226.78,
+          "probability": 0.9935841262340546
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "seek": 22678,
+      "start": 228.57999999999998,
+      "end": 230.5,
+      "text": " Quatro quilos e quinhentos e vinte.",
+      "tokens": [
+        50365,
+        2326,
+        14629,
+        421,
+        6136,
+        308,
+        421,
+        10085,
+        317,
+        329,
+        308,
+        371,
+        12401,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Quatro",
+          "start": 228.57999999999998,
+          "end": 229.14,
+          "probability": 0.8502941727638245
+        },
+        {
+          "word": " quilos",
+          "start": 229.14,
+          "end": 229.56,
+          "probability": 0.9603254795074463
+        },
+        {
+          "word": " e",
+          "start": 229.56,
+          "end": 229.62,
+          "probability": 0.04257639870047569
+        },
+        {
+          "word": " quinhentos",
+          "start": 229.62,
+          "end": 230.04,
+          "probability": 0.9558074325323105
+        },
+        {
+          "word": " e",
+          "start": 230.04,
+          "end": 230.14,
+          "probability": 0.9912927746772766
+        },
+        {
+          "word": " vinte.",
+          "start": 230.14,
+          "end": 230.5,
+          "probability": 0.9984887838363647
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "seek": 22678,
+      "start": 230.6,
+      "end": 230.84,
+      "text": " Sim.",
+      "tokens": [
+        50565,
+        3998,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Sim.",
+          "start": 230.6,
+          "end": 230.84,
+          "probability": 0.8838198184967041
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "seek": 22678,
+      "start": 232.14,
+      "end": 233.12,
+      "text": " Pronto, Ana Bela.",
+      "tokens": [
+        50615,
+        2114,
+        7556,
+        11,
+        21202,
+        363,
+        4053,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Pronto,",
+          "start": 232.14,
+          "end": 232.7,
+          "probability": 0.9982905685901642
+        },
+        {
+          "word": " Ana",
+          "start": 232.7,
+          "end": 232.84,
+          "probability": 0.7090094089508057
+        },
+        {
+          "word": " Bela.",
+          "start": 232.84,
+          "end": 233.12,
+          "probability": 0.9864147901535034
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "seek": 22678,
+      "start": 233.32,
+      "end": 233.68,
+      "text": " Pronto.",
+      "tokens": [
+        50665,
+        2114,
+        7556,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Pronto.",
+          "start": 233.32,
+          "end": 233.68,
+          "probability": 0.8984131813049316
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "seek": 22678,
+      "start": 233.78,
+      "end": 234.72,
+      "text": " Está palpitado.",
+      "tokens": [
+        50715,
+        27304,
+        3984,
+        20144,
+        1573,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Está",
+          "start": 233.78,
+          "end": 233.94,
+          "probability": 0.991587221622467
+        },
+        {
+          "word": " palpitado.",
+          "start": 233.94,
+          "end": 234.72,
+          "probability": 0.8986106316248575
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "seek": 22678,
+      "start": 234.84,
+      "end": 235.22,
+      "text": " Pronto.",
+      "tokens": [
+        50765,
+        2114,
+        7556,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Pronto.",
+          "start": 234.84,
+          "end": 235.22,
+          "probability": 0.9932281672954559
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "seek": 22678,
+      "start": 235.44,
+      "end": 236.72,
+      "text": " Um beijinho para ti.",
+      "tokens": [
+        50815,
+        3301,
+        312,
+        1718,
+        7775,
+        1690,
+        8757,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Um",
+          "start": 235.44,
+          "end": 236.0,
+          "probability": 0.9989101886749268
+        },
+        {
+          "word": " beijinho",
+          "start": 236.0,
+          "end": 236.38,
+          "probability": 0.9979289770126343
+        },
+        {
+          "word": " para",
+          "start": 236.38,
+          "end": 236.54,
+          "probability": 0.9904360175132751
+        },
+        {
+          "word": " ti.",
+          "start": 236.54,
+          "end": 236.72,
+          "probability": 0.6454679369926453
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "seek": 22678,
+      "start": 236.92,
+      "end": 237.58,
+      "text": " Está bem.",
+      "tokens": [
+        50865,
+        27304,
+        7577,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Está",
+          "start": 236.92,
+          "end": 237.06,
+          "probability": 0.828933835029602
+        },
+        {
+          "word": " bem.",
+          "start": 237.06,
+          "end": 237.58,
+          "probability": 0.9981206059455872
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "seek": 22678,
+      "start": 237.7,
+      "end": 238.32,
+      "text": " Bom fim de semana.",
+      "tokens": [
+        50915,
+        19812,
+        31603,
+        368,
+        20205,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Bom",
+          "start": 237.7,
+          "end": 237.82,
+          "probability": 0.4363497197628021
+        },
+        {
+          "word": " fim",
+          "start": 237.82,
+          "end": 237.98,
+          "probability": 0.26788732409477234
+        },
+        {
+          "word": " de",
+          "start": 237.98,
+          "end": 238.06,
+          "probability": 0.993989109992981
+        },
+        {
+          "word": " semana.",
+          "start": 238.06,
+          "end": 238.32,
+          "probability": 0.9974209070205688
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "seek": 22678,
+      "start": 238.64,
+      "end": 239.16,
+      "text": " Obrigada.",
+      "tokens": [
+        50965,
+        45619,
+        1538,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Obrigada.",
+          "start": 238.64,
+          "end": 239.16,
+          "probability": 0.9618505835533142
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "seek": 22678,
+      "start": 239.72,
+      "end": 244.62,
+      "text": " Ana Bela, lá conseguimos ficar com o pergunte desta nossa ouvinte de malhadas.",
+      "tokens": [
+        51015,
+        21202,
+        363,
+        4053,
+        11,
+        7453,
+        12706,
+        8372,
+        13646,
+        395,
+        277,
+        680,
+        70,
+        7070,
+        45943,
+        15821,
+        21157,
+        12401,
+        368,
+        2806,
+        71,
+        6872,
+        13,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13322105010350546,
+      "compression_ratio": 1.4320987654320987,
+      "no_speech_prob": 0.0003243665269110352,
+      "words": [
+        {
+          "word": " Ana",
+          "start": 239.72,
+          "end": 240.28,
+          "probability": 0.9959819316864014
+        },
+        {
+          "word": " Bela,",
+          "start": 240.28,
+          "end": 240.72,
+          "probability": 0.9999854564666748
+        },
+        {
+          "word": " lá",
+          "start": 240.78,
+          "end": 240.94,
+          "probability": 0.9999294281005859
+        },
+        {
+          "word": " conseguimos",
+          "start": 240.94,
+          "end": 241.76,
+          "probability": 0.9998610317707062
+        },
+        {
+          "word": " ficar",
+          "start": 241.76,
+          "end": 242.18,
+          "probability": 0.9534154534339905
+        },
+        {
+          "word": " com",
+          "start": 242.18,
+          "end": 242.52,
+          "probability": 0.9986647367477417
+        },
+        {
+          "word": " o",
+          "start": 242.52,
+          "end": 242.64,
+          "probability": 0.9968079924583435
+        },
+        {
+          "word": " pergunte",
+          "start": 242.64,
+          "end": 242.92,
+          "probability": 0.4951571474472682
+        },
+        {
+          "word": " desta",
+          "start": 242.92,
+          "end": 243.24,
+          "probability": 0.47801440954208374
+        },
+        {
+          "word": " nossa",
+          "start": 243.24,
+          "end": 243.62,
+          "probability": 0.997837245464325
+        },
+        {
+          "word": " ouvinte",
+          "start": 243.62,
+          "end": 244.1,
+          "probability": 0.9923506677150726
+        },
+        {
+          "word": " de",
+          "start": 244.1,
+          "end": 244.2,
+          "probability": 0.9975727200508118
+        },
+        {
+          "word": " malhadas.",
+          "start": 244.2,
+          "end": 244.62,
+          "probability": 0.9029490152994791
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}
