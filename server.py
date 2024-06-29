@@ -1,14 +1,12 @@
 import flask
-from flask import Flask#, request
-
 from pathlib import Path
 
 import maas
 
-app = Flask(__name__)
+app = flask.Flask(__name__)
 
 @app.route("/meme/", methods=['GET'])
-def meme_get():
+def page_meme_get():
 	text = flask.request.args.get('m')
 	if text is not None:
 		return meme_get(text)
@@ -16,8 +14,8 @@ def meme_get():
 	return meme_form()
 
 @app.route("/meme/", methods=['POST'])
-def meme_post():
-	text = flask.request.form['text']
+def page_meme_post():
+	text = flask.request.form['m']
 	return meme_get(text)
 
 def meme_form():
