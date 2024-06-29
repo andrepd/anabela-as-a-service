@@ -1,5 +1,6 @@
 import flask
 from pathlib import Path
+import os
 
 import maas
 
@@ -26,5 +27,11 @@ def meme_get(text):
 		print(f, f.stem)
 		for segment in maas.search_segments(f.stem, text):
 			output = maas.extract_audio(f.stem, segment)
+
+			@flask.after_this_request
+			def cleanup(response):
+				os.remove(output)
+				return response
+
 			return flask.send_from_directory('.', output)
 	return 'Meme not found'
